@@ -21,7 +21,7 @@
 
 *Total Cofinancing: € 119.102,00*\
 *Total MUR Contribution: € 606.961,00*\
-**Total Amount of the Project: € 726,063,00**
+**Total Amount of the Project: € 726,063.00**
 
 This research project aims to enhance knowledge in agricultural risk management through a holistic approach investigating all relevant aspects affecting risk management choices using cutting-edge methodologies.
 
