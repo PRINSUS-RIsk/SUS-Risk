@@ -22,3 +22,7 @@ This research project aims to enhance knowledge in agricultural risk management 
 [Research Team →](about/team.md).
 
 [Research Outputs and Publications →](research/publications.md).
+
+[News and Updates →](news/updates.md).
+
+
