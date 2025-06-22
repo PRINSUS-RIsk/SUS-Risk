@@ -21,9 +21,7 @@ navigation:
   - title: Pubblications
      url: /research/pubblications.md
    - title: work-packages
-     url: /research/work-packages.md
-
-     
+     url: /research/work-packages.md  
   - title: Resources
     url: /resources/
   - title: News
