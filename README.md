@@ -5,7 +5,7 @@
 
 
 **Principal Investigator:** Prof. Simone Severini, University of Tuscia  
-**Duration:** 36 months (2021-2024)  
+**Duration:** 36 months (2022-2025)  
 
 # PRIN 2020 Project Funding Distribution
 
