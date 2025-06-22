@@ -12,10 +12,18 @@ plugins:
 navigation:
   - title: Home
     url: /
+   - title: team
+    url: /about/team.md
   - title: About
     url: /about/
   - title: Research
     url: /research/
+  - title: Pubblications
+     url: /research/pubblications.md
+   - title: work-packages
+     url: /research/work-packages.md
+
+     
   - title: Resources
     url: /resources/
   - title: News
