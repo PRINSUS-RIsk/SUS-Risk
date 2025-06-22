@@ -1,6 +1,4 @@
-# Towards a Holistic Approach to Sustainable Risk Management in Agriculture
-
-## PRIN 2020 Research Project
+# The Research Project
 
 
 ![repository-open-graph-template3](https://github.com/user-attachments/assets/bd7c9937-4535-4d89-be69-36d331d3b0d8)
