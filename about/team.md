@@ -79,7 +79,7 @@ The project collaborates with key Italian institutions:
 
 ## Project Timeline and Commitment
 
-- **Duration:** 36 months (2021-2024)
-- **Total Budget:** €968,084
+- **Duration:** 36 months (2022-2025)
+- **Total Budget:** € 726,063.00
 - **Expected Outcomes:** Scientific publications, policy recommendations, stakeholder engagement activities
 - **Key Deliverables:** Feasibility studies, behavioral analysis, policy impact assessments
