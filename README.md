@@ -7,10 +7,20 @@
 
 **Principal Investigator:** Prof. Simone Severini, University of Tuscia  
 **Duration:** 36 months (2021-2024)  
-**Total Budget:** €968,084  
 
+# PRIN 2020 Project Funding Distribution
 
-### Project Overview
+## Research Units and MUR Contributions
+
+| Responsible Investigator | Institution | MUR Contribution (€) |
+|--------------------------|-------------|---------------------|
+| SEVERINI Simone | Università degli Studi della TUSCIA | 228.680,00 |
+| TRESTINI Samuele | Università degli Studi di PADOVA | 90.451,00 |
+| RAFFAELLI Roberta | Università degli Studi di TRENTO | 108.084,00 |
+| SANTERAMO Fabio Gaetano | Università degli Studi di FOGGIA | 89.610,00 |
+| ARATA Linda | Università Cattolica del Sacro Cuore | 90.136,00 |
+
+**Total MUR Contribution: € 606.961,00**
 
 This research project aims to enhance knowledge in agricultural risk management through a holistic approach investigating all relevant aspects affecting risk management choices using cutting-edge methodologies.
 
