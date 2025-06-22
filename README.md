@@ -5,6 +5,7 @@
 **Principal Investigator:** Prof. Simone Severini, University of Tuscia  
 **Duration:** 36 months (2021-2024)  
 **Total Budget:** €968,084  
+![repository-open-graph-template2](https://github.com/user-attachments/assets/38317971-e0a0-4f1b-930b-31a9e33fa08e)
 
 ### Project Overview
 
