@@ -162,15 +162,6 @@ The project maintains active engagement with key stakeholders:
 - **Institutional Partners:** CREA-PB, ISMEA, and ASNACODI supporting the research
 - **Stakeholder Groups:** Farmers, policymakers, insurance companies, and other relevant entities
 
-## Learn More
-
-For more information about specific aspects of our research, please visit the following pages:
-
-- [Research Team →](about/team.md)
-- [Research Work Packages →](research/work-packages.md)
-- [Publications and Outputs →](research/publications.md)
-- [News and Updates →](news/updates.md)
-
 ## Contact
 
 For inquiries about the project, please contact:
