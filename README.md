@@ -19,5 +19,5 @@ This research project aims to enhance knowledge in agricultural risk management 
 
 [Learn more about our research →](research/work-packages.md)
 
-[Our Team →](about/team.md).
+[Research Team →](about/team.md).
 
