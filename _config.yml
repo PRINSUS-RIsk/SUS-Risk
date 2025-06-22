@@ -1,0 +1,24 @@
+title: "PRIN 2020 Agricultural Risk Management"
+description: "Towards a holistic approach to sustainable risk management in agriculture"
+url: "https://yourusername.github.io/repository-name"
+baseurl: ""
+
+theme: minima
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Research
+    url: /research/
+  - title: Resources
+    url: /resources/
+  - title: News
+    url: /news/
+  - title: Contact
+    url: /contact/
