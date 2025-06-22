@@ -1,6 +1,5 @@
 # The Research Project
 
-
 ![repository-open-graph-template3](https://github.com/user-attachments/assets/bd7c9937-4535-4d89-be69-36d331d3b0d8)
 
 
@@ -13,7 +12,7 @@
 ## Research Units and MUR Contributions
 
 | Responsible Investigator | Institution | MUR Contribution (€) |
-|--------------------------|-------------|---------------------|
+|__________________________|-------------|---------------------|
 | SEVERINI Simone | Università degli Studi della TUSCIA | 228.680,00 |
 | TRESTINI Samuele | Università degli Studi di PADOVA | 90.451,00 |
 | RAFFAELLI Roberta | Università degli Studi di TRENTO | 108.084,00 |
