@@ -28,9 +28,8 @@ The research is organized into seven integrated work packages (WPs) with specifi
 ### WP1: Risk Qualification and Quantification
 - **Lead Institution:** University of Tuscia
 - **Key Tasks:** 
-  - Whole farm risk analysis using panel Vector Auto-Regressive analysis
+  - Whole farm risk analysis using modern Difference-in-Differences estimator analysis
   - Assessment of environmental constraint impacts on farm risk
-  - Climate change risk evaluation using quantile regressions and copula-based methods
 
 ### WP2: Behavioral Factors in Risk Management
 - **Lead Institution:** University of Trento
