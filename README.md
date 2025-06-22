@@ -32,7 +32,7 @@ This research project aims to enhance knowledge in agricultural risk management 
 - Development of innovative risk management tools
 - Assessment of policy implications for sustainable agriculture
 
-[Learn more about our research →](about/team.md)
+[Learn more about our research →](about/learn-about-our-research.md)
 
 [Research Team →](about/team.md).
 
