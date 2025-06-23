@@ -31,7 +31,7 @@
 | D1.3 | Paper submitted to a scientific journal on the qualification and quantification of the risk | UNITUS | [Paper D1.3](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.3/sustainability-14-16098.pdf) |
 | D1.4 | Conference paper on the effect of the use of chemicals on the risk faced by farmers | UNICATT | |
 | D1.5 | Final report on risks due to the changing climatic conditions with "maps of risks" | UNIFG | [Report D1.5](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.5/Report_D1.5.pdf) |
-| D1.6 | Policy brief on qualification and quantification of risk faced by farmers | UNICATT |  [Policy Brief D1.6](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.6/Policy Brief 1.6.pdf)
+| D1.6 | Policy brief on qualification and quantification of risk faced by farmers | UNICATT |  [Policy Brief D1.6](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.6/Policy_Brief_D1.6.pdf)
 |
 
 ### Expected Outcomes & Stakeholder Impact:
