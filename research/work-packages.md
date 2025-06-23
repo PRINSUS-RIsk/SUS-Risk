@@ -295,6 +295,8 @@ This work package establishes management procedures including progress monitorin
 
 ### Research Institutions Involved:
 
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; min-height: 100vh;">
+
 - **UNITUS** - University of Tuscia <img src="https://github.com/user-attachments/assets/8bc24c71-2e4c-4072-bdd4-7745ea55d6b9" alt="UNITUS" width="100" height="100">
 
 - **UNITN** - University of Trento <img src="https://github.com/user-attachments/assets/63be3aa6-1f31-465a-9304-f446e07c9f15" alt="UNITN" width="100" height="100">
@@ -305,9 +307,7 @@ This work package establishes management procedures including progress monitorin
 
 - **UNIFG** - University of Foggia <img src="https://github.com/user-attachments/assets/dac16d23-811a-40de-b259-1e16b4ebeab7" alt="UNIFG" width="100" height="100">
 
-
-![image]()
-
+</div>
 
 
 ---
