@@ -301,11 +301,12 @@ This work package establishes management procedures including progress monitorin
 
 - **UNIPD** - University of Padova <img src="https://github.com/user-attachments/assets/b2a83cae-80b2-4f63-a647-c4f4f4cfa490" alt="UNIPD" width="100" height="100">
 
-- **UNICATT** - Catholic University of Sacred Heart <img src="https://github.com/user-attachments/assets/f4ae7b32-3adc-40e2-911a-35d1b182d8be" alt="UNICATT" width="100" height="100">
+- **UNICATT** - Catholic University of Sacred Heart <img src="https://github.com/user-attachments/assets/a2e2fbb5-414c-4eb5-aca9-48d85053a896" alt="UNICATT" width="100" height="100">
 
 - **UNIFG** - University of Foggia <img src="https://github.com/user-attachments/assets/dac16d23-811a-40de-b259-1e16b4ebeab7" alt="UNIFG" width="100" height="100">
 
 
+![image]()
 
 
 
