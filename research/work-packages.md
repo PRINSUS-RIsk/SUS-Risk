@@ -82,7 +82,7 @@ This work package focuses on the qualification and quantification of agricultura
 
 ### Description:
 
-This work package conducts systematic review of international literature investigating behavioral factors' influence on farmers' risk management decisions[^1]. It employs incentivized economic experiments to elicit farmers' subjective probabilities, risk and ambiguity attitudes, loss aversion, and time preferences. The experiments are designed as both contextualized and non-contextualized to test external validity.
+This work package conducts systematic review of international literature investigating behavioral factors' influence on farmers' risk management decisions. It employs incentivized economic experiments to elicit farmers' subjective probabilities, risk and ambiguity attitudes, loss aversion, and time preferences. The experiments are designed as both contextualized and non-contextualized to test external validity.
 
 ---
 
