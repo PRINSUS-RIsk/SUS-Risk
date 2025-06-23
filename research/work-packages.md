@@ -35,14 +35,14 @@
 
 ### Expected Outcomes \& Stakeholder Impact:
 
-- **Outcomes:** Qualification and quantification of the risk and identification of factors affecting risk[^1]
-- **Applications:** Policy recommendations on the need for additional RM strategies and tools to cope with faced risk, and developing measures to influence farmer risk[^1]
-- **Stakeholders:** Researchers, Policy-makers, Entrepreneurs, Business associations, Insurance companies[^1]
+- **Outcomes:** Qualification and quantification of the risk and identification of factors affecting risk
+- **Applications:** Policy recommendations on the need for additional RM strategies and tools to cope with faced risk, and developing measures to influence farmer risk
+- **Stakeholders:** Researchers, Policy-makers, Entrepreneurs, Business associations, Insurance companies
 
 
 ### Description:
 
-This work package focuses on the qualification and quantification of agricultural risks through innovative analytical approaches[^1]. It addresses the dynamic dimension affecting risk management choices and introduces causality assessment through panel Vector Auto-Regressive analysis[^1]. The work package investigates the relationship between chemical use and agricultural production risk, particularly in light of the Farm-to-Fork strategy's environmental targets.
+This work package focuses on the qualification and quantification of agricultural risks through innovative analytical approaches. It addresses the dynamic dimension affecting risk management choices and introduces causality assessment through panel Vector Auto-Regressive analysis. The work package investigates the relationship between chemical use and agricultural production risk, particularly in light of the Farm-to-Fork strategy's environmental targets.
 
 ---
 
