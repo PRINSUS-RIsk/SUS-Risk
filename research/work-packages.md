@@ -295,11 +295,16 @@ This work package establishes management procedures including progress monitorin
 
 ### Research Institutions Involved:
 
-- **UNITUS** - University of Tuscia[^1]
-- **UNITN** - University of Trento[^1]
-- **UNIPD** - University of Padova[^1]
-- **UNICATT** - Catholic University[^1]
-- **UNIFG** - University of Foggia[^1]
+- **UNITUS** - University of Tuscia ![image](https://github.com/user-attachments/assets/8bc24c71-2e4c-4072-bdd4-7745ea55d6b9)
+
+- **UNITN** - University of Trento ![image](https://github.com/user-attachments/assets/63be3aa6-1f31-465a-9304-f446e07c9f15)
+
+- **UNIPD** - University of Padova ![image](https://github.com/user-attachments/assets/b2a83cae-80b2-4f63-a647-c4f4f4cfa490)
+
+- **UNICATT** - Catholic University of Sacred Heart ![image](https://github.com/user-attachments/assets/f4ae7b32-3adc-40e2-911a-35d1b182d8be)
+
+- **UNIFG** - University of Foggia ![image](https://github.com/user-attachments/assets/dac16d23-811a-40de-b259-1e16b4ebeab7)
+
 
 
 
@@ -326,12 +331,6 @@ Key collaborating institutions include:
 - **ISMEA** (Istituto di Servizi per il Mercato Agricolo Alimentare)
 - **ASNACODI** (Associazione Nazionale Condifesa)
 
-## Project Timeline
-
-- **Duration:** 36 months (2022-2025)
-- **Total Budget:** €606.961,00
-- **Participating Institutions:** 5 Italian Universities
-- **Expected Deliverables:** 30+ reports, papers, and policy briefs
 
 ## Integration and Collaboration
 
