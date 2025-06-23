@@ -2,8 +2,6 @@
 
 ![Logo Prin con scritta_300](https://github.com/user-attachments/assets/62c034a3-3cd5-47b6-9479-75ea773e61ec)
 
-
-
 **Principal Investigator:** Prof. Simone Severini, University of Tuscia  
 **Duration:** 36 months (2022-2025)
 
@@ -25,12 +23,12 @@
 **Total MUR Contribution:** € 606,961.00  
 **Total Amount of the Project:** € 726,063.00
 
-This research project aims to enhance knowledge in agricultural risk management through a holistic approach, investigating all relevant aspects affecting risk management choices using cutting-edge methodologies.
+This research project aims to enhance knowledge in agricultural risk management through a holistic approach investigating all relevant aspects affecting risk management choices using cutting-edge methodologies.
 
 ### Key Objectives
 
 - Risk qualification and quantification under current and future scenarios
-- Investigation of behavioural factors influencing farmers' risk management strategies
+- Investigation of behavioral factors influencing farmers' risk management strategies
 - Development of innovative risk management tools
 - Assessment of policy implications for sustainable agriculture
 
@@ -48,5 +46,3 @@ The "Towards a holistic approach to sustainable risk management in agriculture" 
 ## Contact Information
 
 For more information about this project, please visit our [contact page](contact/) or reach out to the principal investigator.
-
-
