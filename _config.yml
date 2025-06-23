@@ -1,8 +1,8 @@
 title: "PRIN 2020 Agricultural Risk Management"
 layout: default
 description: "Towards a holistic approach to sustainable risk management in agriculture"
-url: "https://prinsus-risk.github.io/SUS-Risk/"
-baseurl: ""
+url: "https://prinsus-risk.github.io/SUS-Risk"
+baseurl: "/SUS-Risk"
 
 theme: minima
 
@@ -10,22 +10,51 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
+# Header pages for navigation (remove .md extensions)
+header_pages:
+  - about/learn-about-our-research.md
+  - about/team.md
+  - research/publications.md
+  - news/updates.md
+
+# Alternative navigation structure (recommended)
 navigation:
   - title: Home
     url: /
-   - title: team
-    url: /about/team.md
   - title: About
     url: /about/
   - title: Research
     url: /research/
-  - title: Pubblications
-     url: /research/pubblications.md
-   - title: work-packages
-     url: /research/work-packages.md  
-  - title: Resources
-    url: /resources/
+  - title: Publications
+    url: /research/publications/
+  - title: Work Packages
+    url: /research/work-packages/
   - title: News
     url: /news/
   - title: Contact
     url: /contact/
+
+# Minima theme settings
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/PRINSUS-RIsk/SUS-Risk" }
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:year/:month/:day/:title/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - README.md
+  - LICENSE
