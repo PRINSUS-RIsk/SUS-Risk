@@ -35,9 +35,9 @@ This research project aims to enhance knowledge in agricultural risk management 
 ## Quick Links
 
 - [Learn more about our research](about/learn-about-our-research.md)
-- [Research Team](about/team.md)
-- [Research Outputs and Publications](research/publications.md)
-- [News and Updates](news/updates.md)
+- [Research Team](/SUS-Risk/about/team.md)
+- [Research Outputs and Publications](/SUS-Risk/research/publications.md)
+- [News and Updates](/SUS-Risk/news/updates.md)
 
 ## About This Project
 
