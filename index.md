@@ -23,11 +23,11 @@ title: Home
 
 | Responsible Investigator | Institution | Cofinancing (€) | MUR Contribution (€) |
 |--------------------------|-------------|-----------------|---------------------|
-| SEVERINI Simone | Università degli Studi della TUSCIA | 26,800.00 | 228,680.00 |
+| SEVERINI Simone | Università degli Studi della TUSCIA - Viterbo | 26,800.00 | 228,680.00 |
 | TRESTINI Samuele | Università degli Studi di PADOVA | 23,710.00 | 90,451.00 |
 | RAFFAELLI Roberta | Università degli Studi di TRENTO | 23,098.00 | 108,084.00 |
 | SANTERAMO Fabio Gaetano | Università degli Studi di FOGGIA | 22,308.00 | 89,610.00 |
-| ARATA Linda | Università Cattolica del Sacro Cuore | 23,186.00 | 90,136.00 |
+| ARATA Linda | Università Cattolica del Sacro Cuore - Piacenza | 23,186.00 | 90,136.00 |
 
 **Total Cofinancing:** € 119,102.00  
 **Total MUR Contribution:** € 606,961.00  
