@@ -70,7 +70,7 @@ This work package focuses on the qualification and quantification of agricultura
 | D2.1 | Report on the conducted systematic literature review | UNITN | [Report D2.1](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.2/D2.1/Report_D2.1.pdf)|
 | D2.2 | Report on the two economic experiments | UNITN | [Report D2.2](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.2/D2.2/Report_D2.2.pdf)|
 | D2.3 | Policy brief on behavioural factors influencing farmers' adoption of risk management strategies | UNITN | [Policy Brief D2.3](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.2/D2.3/PB_D2.3.pdf)|
-| D2.4 | Paper submitted to a scientific journal on behavioural factors influencing farmers' adoption | UNITN | |
+| D2.4 | Paper submitted to a scientific journal on behavioural factors influencing farmers' adoption | UNITN | The paper has been submitted and will be available after the revision process.|
 
 ### Expected Outcomes \& Stakeholder Impact:
 
