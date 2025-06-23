@@ -1,5 +1,6 @@
 # The Research Project
 
+![Logo Prin con scritta_300](https://github.com/user-attachments/assets/87d859f5-c2d7-4fcb-9ffd-25168f802c47)
 
 
 
@@ -9,6 +10,7 @@
 ## PRIN 2020 Project Funding Distribution
 
 ### Research Units and MUR Contributions
+![Universita](https://github.com/user-attachments/assets/1d59208d-09c3-4bf5-a9dc-ad188ef93ec8)
 
 
 
@@ -25,7 +27,7 @@
 **Total MUR Contribution:** € 606,961.00  
 **Total Amount of the Project:** € 726,063.00
 
-This research project aims to enhance knowledge in agricultural risk management through a holistic approach investigating all relevant aspects affecting risk management choices using cutting-edge methodologies.
+This research project aims to enhance knowledge in agricultural risk management through a holistic approach, investigating all relevant aspects affecting risk management choices using cutting-edge methodologies.
 
 ### Key Objectives
 
@@ -46,4 +48,4 @@ The "Towards a holistic approach to sustainable risk management in agriculture" 
 
 ## Contact Information
 
-For more information about this project, please visit our [contact page](contact/) or reach out to the principal investigator.
+For more information about this project, please visit our [contact page](contact/) or reach out to the principal investigator (Prof. Simone Severini - severini@unitus.it).
