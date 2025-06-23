@@ -29,7 +29,7 @@
 | D1.1 | Report on the qualification and quantification of the risk and on the factors affecting risk | UNITUS | [Report D1.1](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.1/Report_D1.1.pdf) |
 | D1.2 | Preliminary technical report on risks due to the changing climatic conditions | UNIFG | [Report D1.2](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.2/Report_D1.2.pdf) |
 | D1.3 | Paper submitted to a scientific journal on the qualification and quantification of the risk | UNITUS | [Paper D1.3](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.3/sustainability-14-16098.pdf) |
-| D1.4 | Conference paper on the effect of the use of chemicals on the risk faced by farmers | UNICATT |The paper has been submitted and will be available after the revision process.|
+| D1.4 | Conference paper on the effect of the use of chemicals on the risk faced by farmers | UNICATT |The paper has been submitted and will be available after the revision process.\ The paper is available only to the reviewers|
 | D1.5 | Final report on risks due to the changing climatic conditions with "maps of risks" | UNIFG | [Report D1.5](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.5/Report_D1.5.pdf) |
 | D1.6 | Policy brief on qualification and quantification of risk faced by farmers | UNICATT |  [Policy Brief D1.6](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.6/Policy_Brief_D1.6.pdf)|
 
@@ -70,7 +70,7 @@ This work package focuses on the qualification and quantification of agricultura
 | D2.1 | Report on the conducted systematic literature review | UNITN | [Report D2.1](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.2/D2.1/Report_D2.1.pdf)|
 | D2.2 | Report on the two economic experiments | UNITN | [Report D2.2](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.2/D2.2/Report_D2.2.pdf)|
 | D2.3 | Policy brief on behavioural factors influencing farmers' adoption of risk management strategies | UNITN | [Policy Brief D2.3](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.2/D2.3/PB_D2.3.pdf)|
-| D2.4 | Paper submitted to a scientific journal on behavioural factors influencing farmers' adoption | UNITN | The paper has been submitted and will be available after the revision process.|
+| D2.4 | Paper submitted to a scientific journal on behavioural factors influencing farmers' adoption | UNITN | The paper has been submitted and will be available after the revision process.\ The paper is available only to the reviewers|
 
 ### Expected Outcomes \& Stakeholder Impact:
 
