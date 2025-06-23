@@ -33,7 +33,7 @@
 | D1.5 | Final report on risks due to the changing climatic conditions with "maps of risks" | UNIFG | |
 | D1.6 | Policy brief on qualification and quantification of risk faced by farmers | UNICATT |  |
 
-### Expected Outcomes \& Stakeholder Impact:
+### Expected Outcomes & Stakeholder Impact:
 
 - **Outcomes:** Qualification and quantification of the risk and identification of factors affecting risk
 - **Applications:** Policy recommendations on the need for additional RM strategies and tools to cope with faced risk, and developing measures to influence farmer risk
