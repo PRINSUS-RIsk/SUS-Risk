@@ -25,7 +25,7 @@
 ### Deliverables:
 
 | Deliverable | Description | Leading RU | Document |
-| :-- | :-- | :-- | 
+| :-- | :-- | :-- | :-- | 
 | D1.1 | Report on the qualification and quantification of the risk and on the factors affecting risk | UNITUS | https://github.com/PRINSUS-RIsk/SUS-Risk/blob/main/Deliverables/D.1/D1.1./Report%201.1.pdf |
 | D1.2 | Preliminary technical report on risks due to the changing climatic conditions | UNIFG |  |
 | D1.3 | Paper submitted to a scientific journal on the qualification and quantification of the risk | UNITUS | |
