@@ -17,7 +17,9 @@ title: Home
 
 ### Research Units and MUR Contributions
 
-![Universita](https://github.com/user-attachments/assets/211a1015-57d3-44ee-9dea-e834b165cd21)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/211a1015-57d3-44ee-9dea-e834b165cd21" alt="Universita"/>
+</p>
 
 | Responsible Investigator | Institution | Cofinancing (€) | MUR Contribution (€) |
 |--------------------------|-------------|-----------------|---------------------|
