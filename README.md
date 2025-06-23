@@ -50,6 +50,6 @@ The "Towards a holistic approach to sustainable risk management in agriculture" 
 
 ## Contact Information
 
-For more information about this project, please visit our [contact page](about/contact.md) or reach out to the principal investigator.
-Interest (PRIN) 2020 program.
+For more information about this project, please visit our [contact page](about/contact.md) or reach out to the principal investigator.\
+[MUR PRIN 2020 program](https://prin.mur.gov.it/Iniziative/Detail?key=03Z2J0R14R1GqN6%2BEURBSg%3D%3D).
 
