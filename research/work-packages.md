@@ -1,5 +1,9 @@
 # Work Packages
 
+![image](https://github.com/user-attachments/assets/e6c6c5e4-246b-4282-968e-93aad86a0e18)
+
+
+
 ## WP1: Risk Qualification and Quantification
 **Lead Institution:** University of Tuscia  
 **Objective:** Develop comprehensive risk analysis considering current conditions, environmental constraints, and climate change impacts.
