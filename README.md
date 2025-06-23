@@ -1,6 +1,6 @@
 # The Research Project
 
-![Logo Prin con scritta_300](https://github.com/user-attachments/assets/62c034a3-3cd5-47b6-9479-75ea773e61ec)
+![Logo Prin con scritta_300](/Images/Logo_Prin_300.png)
 
 **Principal Investigator:** Prof. Simone Severini, University of Tuscia  
 **Duration:** 36 months (2022-2025)
