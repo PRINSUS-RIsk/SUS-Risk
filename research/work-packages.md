@@ -114,6 +114,10 @@ This work package establishes management procedures including progress monitorin
 - World Café approach for enhanced interaction
 
 ---
+## Rationale
+![image](https://github.com/user-attachments/assets/7028f0e5-70c2-4b97-88c3-c23854f50183)
+
+---
 
 ## International Advisory Board
 
