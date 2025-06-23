@@ -28,7 +28,7 @@
 | :-- | :-- | :-- | :-- | 
 | D1.1 | Report on the qualification and quantification of the risk and on the factors affecting risk | UNITUS | [Report D1.1](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.1/Report_D1.1.pdf) |
 | D1.2 | Preliminary technical report on risks due to the changing climatic conditions | UNIFG | [Report D1.2](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.2/Report_D1.2.pdf) |
-| D1.3 | Paper submitted to a scientific journal on the qualification and quantification of the risk | UNITUS | [Report D1.2](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/blob/main/Deliverables/D.1/D1.3/sustainability-14-16098.pdf) |
+| D1.3 | Paper submitted to a scientific journal on the qualification and quantification of the risk | UNITUS | [Report D1.2](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.3/sustainability-14-16098.pdf) |
 | D1.4 | Conference paper on the effect of the use of chemicals on the risk faced by farmers | UNICATT | |
 | D1.5 | Final report on risks due to the changing climatic conditions with "maps of risks" | UNIFG | |
 | D1.6 | Policy brief on qualification and quantification of risk faced by farmers | UNICATT |  |
