@@ -42,5 +42,4 @@ exclude:
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
-  - README.md
   - LICENSE
