@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # The Research Project
 
 ![Logo Prin con scritta_300](https://github.com/user-attachments/assets/62c034a3-3cd5-47b6-9479-75ea773e61ec)
@@ -10,7 +15,6 @@
 ### Research Units and MUR Contributions
 
 ![Universita](https://github.com/user-attachments/assets/211a1015-57d3-44ee-9dea-e834b165cd21)
-
 
 | Responsible Investigator | Institution | Cofinancing (€) | MUR Contribution (€) |
 |--------------------------|-------------|-----------------|---------------------|
@@ -35,14 +39,19 @@ This research project aims to enhance knowledge in agricultural risk management 
 
 ## Quick Links
 
-- [Learn more about our research](about/learn-about-our-research.md)
-- [Research Team](about/team.md)
-- [Research Outputs and Publications](research/publications.md)
-- [News and Updates](news/updates.md)
+- [Learn more about our research](about/learn-about-our-research.html)
+- [Research Team](about/team.html)
+- [Research Outputs and Publications](research/publications.html)
+- [News and Updates](news/updates.html)
 
 ## About This Project
 
 The "Towards a holistic approach to sustainable risk management in agriculture" (SUS-RISK) project is a three-year research initiative funded by the Italian Ministry of University and Research (MUR) through the Projects of Relevant National Interest (PRIN) 2020 program.
+
+## Contact Information
+
+For more information about this project, please visit our [contact page](contact.html) or reach out to the principal investigator.
+Interest (PRIN) 2020 program.
 
 ## Contact Information
 
