@@ -42,7 +42,7 @@ This research project aims to enhance knowledge in agricultural risk management 
 - [Learn more about our research](about/learn-about-our-research.html)
 - [Research Team](about/team.html)
 - [Research Outputs and Publications](research/publications.html)
-- [News and Updates](news/updates.html)
+- [Contact](about/contact.html)
 
 ## About This Project
 
