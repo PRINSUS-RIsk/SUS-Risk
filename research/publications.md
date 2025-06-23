@@ -9,7 +9,7 @@
 - Multiple research outputs from the PRIN 2020 project work packages contributed to the scientific literature on agricultural risk management and behavioral economics.
 
 ### 2022
-- Biagini, L., & Severini, S. (2022). "How Does the Farmer Strike a Balance between Income and Risk across Inputs? An Application in Italian Field Crop Farms." *Sustainability*, 14, 16098. [https://doi.org/10.3390/su142316098] [Paper](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.3/sustainability-14-16098.pdf)
+- Biagini, L., & Severini, S. (2022). "How Does the Farmer Strike a Balance between Income and Risk across Inputs? An Application in Italian Field Crop Farms." *Sustainability*, 14, 16098. [https://doi.org/10.3390/su142316098] [Download the Paper](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.3/sustainability-14-16098.pdf)
 
 ## Papers Under Review and Submitted
 
