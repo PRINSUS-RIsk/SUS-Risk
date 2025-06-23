@@ -323,7 +323,7 @@ The project benefits from an international scientific advisory board comprised o
 - **Prof. Luisa Menapace** - Technical University of Munich, Germany
 - **Prof. Jean Cordier** - AgroCampus Ouest, France  
 - **Prof. Isabel Bardají** - Universidad Politécnica de Madrid, Spain
-- **Dr. Carlotta Zaccarini Bonelli** - ISMEA, Italy
+- **Dr. Camillo Zaccarini Bonelli** - ISMEA, Italy
 
 ## Institutional Partners
 
