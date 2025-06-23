@@ -25,6 +25,7 @@
 
 ### International Conferences
 - **EAAE 2025 Congress** (Bonn, Germany): Multiple presentations on agricultural risk management findings
+- **AIEAA 2025 Conference**: "Organized Session: Towards a holistic approach to sustainable risk management in agriculture. Results from the SUS-RISK National Research Project (PRIN)"
 - **AIEAA 2024 Conference**: "Behavioral Factors in Agricultural Insurance Adoption"
 - **AIEAA 2023**: "Climate Change Impacts on Italian Farm Risk Profiles"
 - **Various 2022-2024 Conferences**: Papers on machine learning approaches to agricultural risk assessment
