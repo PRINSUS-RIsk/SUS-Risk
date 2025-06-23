@@ -1,31 +1,30 @@
+---
+layout: default
+title: PRIN SUS Risk
+description: Towards a holistic approach to sustainable risk management in agriculture
+---
+
 # The Research Project
 
-![Logo Prin con scritta_300](https://github.com/user-attachments/assets/87d859f5-c2d7-4fcb-9ffd-25168f802c47)
+**Principal Investigator:**  
+Prof. Simone Severini, University of Tuscia  
 
-
-
-**Principal Investigator:** Prof. Simone Severini, University of Tuscia  
-**Duration:** 36 months (2022-2025)
+**Duration:**  
+36 months (2022-2025)
 
 ## PRIN 2020 Project Funding Distribution
 
 ### Research Units and MUR Contributions
-![Universita](https://github.com/user-attachments/assets/1d59208d-09c3-4bf5-a9dc-ad188ef93ec8)
-
-
-
 
 | Responsible Investigator | Institution | Cofinancing (€) | MUR Contribution (€) |
-|--------------------------|-------------|-----------------|---------------------|
+|-------------------------|-------------|-----------------|----------------------|
 | SEVERINI Simone | Università degli Studi della TUSCIA | 26,800.00 | 228,680.00 |
 | TRESTINI Samuele | Università degli Studi di PADOVA | 23,710.00 | 90,451.00 |
 | RAFFAELLI Roberta | Università degli Studi di TRENTO | 23,098.00 | 108,084.00 |
 | SANTERAMO Fabio Gaetano | Università degli Studi di FOGGIA | 22,308.00 | 89,610.00 |
 | ARATA Linda | Università Cattolica del Sacro Cuore | 23,186.00 | 90,136.00 |
-
-**Total Cofinancing:** € 119,102.00  
-**Total MUR Contribution:** € 606,961.00  
-**Total Amount of the Project:** € 726,063.00
+| **Total** | | **€ 119,102.00** | **€ 606,961.00** |
+| **Total Amount of the Project:** | | | **€ 726,063.00** |
 
 This research project aims to enhance knowledge in agricultural risk management through a holistic approach, investigating all relevant aspects affecting risk management choices using cutting-edge methodologies.
 
@@ -38,9 +37,9 @@ This research project aims to enhance knowledge in agricultural risk management 
 
 ## Quick Links
 
-- [Learn more about our research](about/learn-about-our-research.md)
-- [Research Team](about/team.md)
-- [Research Outputs and Publications](research/publications.md)
+- [Learn more about our research]({{ site.baseurl }}/about/learn-about-our-research)
+- [Research Team]({{ site.baseurl }}/about/team)
+- [Research Outputs and Publications]({{ site.baseurl }}/research/publications)
 
 ## About This Project
 
@@ -48,4 +47,9 @@ The "Towards a holistic approach to sustainable risk management in agriculture" 
 
 ## Contact Information
 
-For more information about this project, please visit our [contact page](contact/) or reach out to the principal investigator (Prof. Simone Severini - severini@unitus.it).
+For more information about this project, please visit our [contact page]({{ site.baseurl }}/contact) or reach out to the principal investigator (Prof. Simone Severini - severini@unitus.it).
+
+<div class="image-container" style="text-align: center; margin-top: 30px;">
+  <img src="{{ site.baseurl }}/Images/Logo_Prin_300.png" alt="PRIN SUS Risk Logo" style="max-width: 300px; height: auto;">
+  <img src="{{ site.baseurl }}/Images/Universita.png" alt="University Logo" style="max-width: 300px; height: auto; margin-left: 20px;">
+</div>
