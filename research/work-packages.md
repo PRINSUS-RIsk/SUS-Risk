@@ -18,8 +18,8 @@
 
 ### Data Sources:
 
-- Individual data of all Italian FADN farms from 2008 to most recent available data (CREA-PB)[^1]
-- Historical climatic data and data on anomalies and historical yield data on selected crops (ISTAT and CNR)[^1]
+- Individual data of all Italian FADN farms from 2008 to most recent available data (CREA-PB)
+- Historical climatic data and data on anomalies and historical yield data on selected crops (ISTAT and CNR)
 
 
 ### Deliverables:
@@ -42,7 +42,7 @@
 
 ### Description:
 
-This work package focuses on the qualification and quantification of agricultural risks through innovative analytical approaches[^1]. It addresses the dynamic dimension affecting risk management choices and introduces causality assessment through panel Vector Auto-Regressive analysis[^1]. The work package investigates the relationship between chemical use and agricultural production risk, particularly in light of the Farm-to-Fork strategy's environmental targets[^1].
+This work package focuses on the qualification and quantification of agricultural risks through innovative analytical approaches[^1]. It addresses the dynamic dimension affecting risk management choices and introduces causality assessment through panel Vector Auto-Regressive analysis[^1]. The work package investigates the relationship between chemical use and agricultural production risk, particularly in light of the Farm-to-Fork strategy's environmental targets.
 
 ---
 
@@ -59,8 +59,8 @@ This work package focuses on the qualification and quantification of agricultura
 
 ### Data Sources:
 
-- Results of scientific research published in academic journals (Scopus, Web of Science, Google Scholar)[^1]
-- Primary data from online experiments with a sample of 300 farmers, paired with secondary data from FADN by CREA-PB[^1]
+- Results of scientific research published in academic journals (Scopus, Web of Science, Google Scholar)
+- Primary data from online experiments with a sample of 300 farmers, paired with secondary data from FADN by CREA-PB
 
 
 ### Deliverables:
@@ -74,15 +74,15 @@ This work package focuses on the qualification and quantification of agricultura
 
 ### Expected Outcomes \& Stakeholder Impact:
 
-- **Task 2.a Outcomes:** Identification of the role of behavioural factors on farmers' decisions and the most promising approaches to elicit behavioural factors[^1]
-- **Task 2.b Outcomes:** Elicitation of farmers' subjective probabilities, risk and ambiguity attitudes, loss aversion and time preferences[^1]
-- **Applications:** Policy recommendations on tailored educational or nudging-based programs aimed at increasing farmers' uptake of optimal RM strategies[^1]
-- **Stakeholders:** Researchers, Policy-makers, Entrepreneurs, Business associations, Insurance companies[^1]
+- **Task 2.a Outcomes:** Identification of the role of behavioural factors on farmers' decisions and the most promising approaches to elicit behavioural factors
+- **Task 2.b Outcomes:** Elicitation of farmers' subjective probabilities, risk and ambiguity attitudes, loss aversion and time preferences
+- **Applications:** Policy recommendations on tailored educational or nudging-based programs aimed at increasing farmers' uptake of optimal RM strategies
+- **Stakeholders:** Researchers, Policy-makers, Entrepreneurs, Business associations, Insurance companies
 
 
 ### Description:
 
-This work package conducts systematic review of international literature investigating behavioral factors' influence on farmers' risk management decisions[^1]. It employs incentivized economic experiments to elicit farmers' subjective probabilities, risk and ambiguity attitudes, loss aversion, and time preferences[^1]. The experiments are designed as both contextualized and non-contextualized to test external validity[^1].
+This work package conducts systematic review of international literature investigating behavioral factors' influence on farmers' risk management decisions[^1]. It employs incentivized economic experiments to elicit farmers' subjective probabilities, risk and ambiguity attitudes, loss aversion, and time preferences. The experiments are designed as both contextualized and non-contextualized to test external validity.
 
 ---
 
@@ -100,9 +100,9 @@ This work package conducts systematic review of international literature investi
 
 ### Data Sources:
 
-- Individual data of all Italian FADN farms from 2008 to most recent available data (CREA-PB)[^1]
-- Primary data from online discrete choice experiment with 300 farmers, paired with FADN data[^1]
-- Individual FADN data integrated with survey data[^1]
+- Individual data of all Italian FADN farms from 2008 to most recent available data (CREA-PB)
+- Primary data from online discrete choice experiment with 300 farmers, paired with FADN data
+- Individual FADN data integrated with survey data
 
 
 ### Deliverables:
@@ -120,15 +120,15 @@ This work package conducts systematic review of international literature investi
 
 ### Expected Outcomes \& Stakeholder Impact:
 
-- **Task 3.a:** Application of Machine Learning in insurance field and identification of factors affecting farmers' participation to insurance schemes[^1]
-- **Task 3.b:** Identification of the most preferred characteristics of innovative RM tools[^1]
-- **Task 3.c:** Identification of factors affecting adoption of existing and innovative RM tools for the first time[^1]
-- **Stakeholders:** Researchers, Policy-makers, Entrepreneurs, Business associations, Insurance companies[^1]
+- **Task 3.a:** Application of Machine Learning in insurance field and identification of factors affecting farmers' participation to insurance schemes
+- **Task 3.b:** Identification of the most preferred characteristics of innovative RM tools
+- **Task 3.c:** Identification of factors affecting adoption of existing and innovative RM tools for the first time
+- **Stakeholders:** Researchers, Policy-makers, Entrepreneurs, Business associations, Insurance companies
 
 
 ### Description:
 
-This work package employs Machine Learning approaches (Shrinkage and Boosting) to explore factors affecting farmers' participation in insurance schemes[^1]. It investigates farmers' preferences for innovative risk management tools through Discrete Choice Experiments (DCE) and develops comprehensive frameworks to explain adoption decisions using structural equation modeling[^1].
+This work package employs Machine Learning approaches (Shrinkage and Boosting) to explore factors affecting farmers' participation in insurance schemes. It investigates farmers' preferences for innovative risk management tools through Discrete Choice Experiments (DCE) and develops comprehensive frameworks to explain adoption decisions using structural equation modeling.
 
 ---
 
@@ -145,8 +145,8 @@ This work package employs Machine Learning approaches (Shrinkage and Boosting) t
 
 ### Data Sources:
 
-- Individual data of all Italian FADN farms from 2008 to most recent available data (CREA-PB)[^1]
-- Historical climatic data and data on anomalies and historical yield data on selected crops at subregional level (ISTAT and CNR)[^1]
+- Individual data of all Italian FADN farms from 2008 to most recent available data (CREA-PB)
+- Historical climatic data and data on anomalies and historical yield data on selected crops at subregional level (ISTAT and CNR)
 
 
 ### Deliverables:
@@ -160,14 +160,14 @@ This work package employs Machine Learning approaches (Shrinkage and Boosting) t
 
 ### Expected Outcomes \& Stakeholder Impact:
 
-- **Task 4.a:** Sustainability assessment and feasibility study of innovative crisis measures and RM strategies and tools[^1]
-- **Task 4.b:** Evaluation of the feasibility and sustainability of weather-indexed and catastrophe insurances for selected sectors and areas[^1]
-- **Stakeholders:** Researchers, Policy-makers, Business associations, Insurance companies[^1]
+- **Task 4.a:** Sustainability assessment and feasibility study of innovative crisis measures and RM strategies and tools
+- **Task 4.b:** Evaluation of the feasibility and sustainability of weather-indexed and catastrophe insurances for selected sectors and areas
+- **Stakeholders:** Researchers, Policy-makers, Business associations, Insurance companies
 
 
 ### Description:
 
-This work package develops feasibility studies for new CAP measures including national basic coverage against catastrophic events and new reserve funds for crises[^1]. It focuses on weather-indexed insurance and catastrophe insurance for wheat and tomato crops, using quantile regressions to investigate trigger mechanisms and pricing models for extreme events[^1].
+This work package develops feasibility studies for new CAP measures including national basic coverage against catastrophic events and new reserve funds for crises. It focuses on weather-indexed insurance and catastrophe insurance for wheat and tomato crops, using quantile regressions to investigate trigger mechanisms and pricing models for extreme events.
 
 ---
 
@@ -185,8 +185,8 @@ This work package develops feasibility studies for new CAP measures including na
 
 ### Data Sources:
 
-- Individual data of all Italian FADN farms from 2008 to most recent available data (CREA-PB)[^1]
-- Individual FADN data integrated with survey data for three groups of Italian farms[^1]
+- Individual data of all Italian FADN farms from 2008 to most recent available data (CREA-PB)
+- Individual FADN data integrated with survey data for three groups of Italian farms
 
 
 ### Deliverables:
@@ -202,15 +202,15 @@ This work package develops feasibility studies for new CAP measures including na
 
 ### Expected Outcomes \& Stakeholder Impact:
 
-- **Task 5.a:** Relationship between RM tools and use of chemicals[^1]
-- **Task 5.b:** Identification of behavioural drivers of farmers' involvement in contract farming[^1]
-- **Task 5.c:** Assessment of the potential impact of innovative RM tools at farm level[^1]
-- **Stakeholders:** Researchers, Policy-makers, Entrepreneurs, Business associations, Insurance companies, Others[^1]
+- **Task 5.a:** Relationship between RM tools and use of chemicals
+- **Task 5.b:** Identification of behavioural drivers of farmers' involvement in contract farming
+- **Task 5.c:** Assessment of the potential impact of innovative RM tools at farm level
+- **Stakeholders:** Researchers, Policy-makers, Entrepreneurs, Business associations, Insurance companies, Others
 
 
 ### Description:
 
-This work package investigates the interaction between risk management tools and agricultural policy objectives, particularly the relationship between chemical use reduction and risk management[^1]. It examines contract farming as a risk reduction mechanism and uses PMP models to simulate impacts of innovative RM tools on farm production choices and economic performance[^1].
+This work package investigates the interaction between risk management tools and agricultural policy objectives, particularly the relationship between chemical use reduction and risk management. It examines contract farming as a risk reduction mechanism and uses PMP models to simulate impacts of innovative RM tools on farm production choices and economic performance.
 
 ---
 
@@ -236,24 +236,24 @@ This work package investigates the interaction between risk management tools and
 
 ### Expected Outcomes \& Stakeholder Impact:
 
-- **Task 6.a:** Development of ideas, feedback and relevant information through stakeholders' engagement[^1]
-- **Task 6.b:** Presentation and critical discussion of project findings with scientific community and stakeholders[^1]
-- **Stakeholders:** All stakeholder categories including researchers, policy-makers, entrepreneurs, business associations, insurance companies, and environmental groups[^1]
+- **Task 6.a:** Development of ideas, feedback and relevant information through stakeholders' engagement
+- **Task 6.b:** Presentation and critical discussion of project findings with scientific community and stakeholders
+- **Stakeholders:** All stakeholder categories including researchers, policy-makers, entrepreneurs, business associations, insurance companies, and environmental groups
 
 
 ### Stakeholder Engagement Activities:
 
-- Focus groups with farmers, policymakers, and insurance companies[^1]
-- Policy briefs for easy-to-read communication of findings[^1]
-- Project website in English and Italian[^1]
-- Twitter dissemination campaigns[^1]
-- Mid-term and final seminars/conferences[^1]
-- Publication of comprehensive project book[^1]
+- Focus groups with farmers, policymakers, and insurance companies
+- Policy briefs for easy-to-read communication of findings
+- Project website in English and Italian
+- Twitter dissemination campaigns
+- Mid-term and final seminars/conferences
+- Publication of comprehensive project book
 
 
 ### Description:
 
-This work package ensures continuous engagement with farmers, policymakers, insurance sector institutions, and other stakeholders throughout the project lifecycle[^1]. It includes 5 focus groups, development of policy briefs in English and Italian, creation of a project website, social media dissemination, and organization of seminars and conferences to present results[^1].
+This work package ensures continuous engagement with farmers, policymakers, insurance sector institutions, and other stakeholders throughout the project lifecycle. It includes 5 focus groups, development of policy briefs in English and Italian, creation of a project website, social media dissemination, and organization of seminars and conferences to present results.
 
 ---
 
@@ -270,24 +270,24 @@ This work package ensures continuous engagement with farmers, policymakers, insu
 
 ### Key Tasks:
 
-- Project coordination and monitoring[^1]
-- Data management and security protocols[^1]
-- Communication and collaboration frameworks[^1]
-- Quality assurance and peer review processes[^1]
+- Project coordination and monitoring
+- Data management and security protocols
+- Communication and collaboration frameworks
+- Quality assurance and peer review processes
 
 
 ### Management Activities:
 
-- Bi-annual steering committee meetings[^1]
-- Internal peer-to-peer review process for deliverables[^1]
-- Shared cloud workspace for data management[^1]
-- Ethical approval coordination across research units[^1]
-- World Café approach for enhanced interaction[^1]
+- Bi-annual steering committee meetings
+- Internal peer-to-peer review process for deliverables
+- Shared cloud workspace for data management
+- Ethical approval coordination across research units
+- World Café approach for enhanced interaction
 
 
 ### Description:
 
-This work package establishes management procedures including progress monitoring, communication protocols, risk management, decision-making processes, and conflict resolution[^1]. It ensures high-quality approach adherence to ethics rules, and maintains shared workspace for data availability and security among partners[^1].
+This work package establishes management procedures including progress monitoring, communication protocols, risk management, decision-making processes, and conflict resolution. It ensures high-quality approach adherence to ethics rules, and maintains shared workspace for data availability and security among partners.
 
 ---
 
