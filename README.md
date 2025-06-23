@@ -11,7 +11,7 @@
 
 ## Research Units and MUR Contributions
 
-| Responsible Investigator | Institution | Cofinancing | MUR Contribution (€) |
+| Responsible Investigator | Institution | Cofinancing (€) | MUR Contribution (€) |
 |--------------------------|-------------|----------------|---------------------|
 | SEVERINI Simone | Università degli Studi della TUSCIA |26.800,00| 228.680,00 |
 | TRESTINI Samuele | Università degli Studi di PADOVA | 23.710,00 | 90.451,00 |
