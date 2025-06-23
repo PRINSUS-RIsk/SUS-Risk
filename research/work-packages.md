@@ -295,15 +295,15 @@ This work package establishes management procedures including progress monitorin
 
 ### Research Institutions Involved:
 
-- **UNITUS** - University of Tuscia ![image](https://github.com/user-attachments/assets/8bc24c71-2e4c-4072-bdd4-7745ea55d6b9)
+- **UNITUS** - University of Tuscia <img src="https://github.com/user-attachments/assets/8bc24c71-2e4c-4072-bdd4-7745ea55d6b9" alt="UNITUS" width="100" height="100">
 
-- **UNITN** - University of Trento ![image](https://github.com/user-attachments/assets/63be3aa6-1f31-465a-9304-f446e07c9f15)
+- **UNITN** - University of Trento <img src="https://github.com/user-attachments/assets/63be3aa6-1f31-465a-9304-f446e07c9f15" alt="UNITN" width="100" height="100">
 
-- **UNIPD** - University of Padova ![image](https://github.com/user-attachments/assets/b2a83cae-80b2-4f63-a647-c4f4f4cfa490)
+- **UNIPD** - University of Padova <img src="https://github.com/user-attachments/assets/b2a83cae-80b2-4f63-a647-c4f4f4cfa490" alt="UNIPD" width="100" height="100">
 
-- **UNICATT** - Catholic University of Sacred Heart ![image](https://github.com/user-attachments/assets/f4ae7b32-3adc-40e2-911a-35d1b182d8be)
+- **UNICATT** - Catholic University of Sacred Heart <img src="https://github.com/user-attachments/assets/f4ae7b32-3adc-40e2-911a-35d1b182d8be)" alt="UNICATT" width="100" height="100">
 
-- **UNIFG** - University of Foggia ![image](https://github.com/user-attachments/assets/dac16d23-811a-40de-b259-1e16b4ebeab7)
+- **UNIFG** - University of Foggia <img src="https://github.com/user-attachments/assets/dac16d23-811a-40de-b259-1e16b4ebeab7" alt="UNIFG" width="100" height="100">
 
 
 
