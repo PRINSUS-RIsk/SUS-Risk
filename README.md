@@ -1,6 +1,7 @@
- The Research Project
+# The Research Project
 
-![Logo Prin con scritta](https://github.com/user-attachments/assets/57442d0d-c775-4e41-a79c-f876f4c261e3)
+![Logo Prin con scritta_300](https://github.com/user-attachments/assets/62c034a3-3cd5-47b6-9479-75ea773e61ec)
+
 
 
 **Principal Investigator:** Prof. Simone Severini, University of Tuscia  
@@ -29,7 +30,7 @@ This research project aims to enhance knowledge in agricultural risk management 
 ### Key Objectives
 
 - Risk qualification and quantification under current and future scenarios
-- Investigation of behavioral factors influencing farmers' risk management strategies
+- Investigation of behavioural factors influencing farmers' risk management strategies
 - Development of innovative risk management tools
 - Assessment of policy implications for sustainable agriculture
 
