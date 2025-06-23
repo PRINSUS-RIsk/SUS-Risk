@@ -24,14 +24,14 @@
 
 ### Deliverables:
 
-| Deliverable | Description | Leading RU |
+| Deliverable | Description | Leading RU | Document |
 | :-- | :-- | :-- | 
-| D1.1 | Report on the qualification and quantification of the risk and on the factors affecting risk | UNITUS |
-| D1.2 | Preliminary technical report on risks due to the changing climatic conditions | UNIFG | 
-| D1.3 | Paper submitted to a scientific journal on the qualification and quantification of the risk | UNITUS |
-| D1.4 | Conference paper on the effect of the use of chemicals on the risk faced by farmers | UNICATT |
-| D1.5 | Final report on risks due to the changing climatic conditions with "maps of risks" | UNIFG |
-| D1.6 | Policy brief on qualification and quantification of risk faced by farmers | UNICATT | 
+| D1.1 | Report on the qualification and quantification of the risk and on the factors affecting risk | UNITUS | https://github.com/PRINSUS-RIsk/SUS-Risk/blob/main/Deliverables/D.1/D1.1./Report%201.1.pdf |
+| D1.2 | Preliminary technical report on risks due to the changing climatic conditions | UNIFG |  |
+| D1.3 | Paper submitted to a scientific journal on the qualification and quantification of the risk | UNITUS | |
+| D1.4 | Conference paper on the effect of the use of chemicals on the risk faced by farmers | UNICATT | |
+| D1.5 | Final report on risks due to the changing climatic conditions with "maps of risks" | UNIFG | |
+| D1.6 | Policy brief on qualification and quantification of risk faced by farmers | UNICATT |  |
 
 ### Expected Outcomes \& Stakeholder Impact:
 
