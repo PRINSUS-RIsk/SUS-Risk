@@ -1,6 +1,6 @@
 # The Research Project
 
-![Logo Prin con scritta_300](https://github.com/user-attachments/assets/ae6fcf9c-72e3-4b49-94e8-6f246056664a)
+
 
 
 **Principal Investigator:** Prof. Simone Severini, University of Tuscia  
@@ -10,7 +10,7 @@
 
 ### Research Units and MUR Contributions
 
-![Universita](https://github.com/user-attachments/assets/c5da2628-1ba4-4b87-997a-4538dc0e7cb0)
+
 
 
 | Responsible Investigator | Institution | Cofinancing (€) | MUR Contribution (€) |
