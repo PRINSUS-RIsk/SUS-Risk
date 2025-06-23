@@ -1,4 +1,4 @@
-# Publications and Deliverables
+# Publications
 
 ## Peer-Reviewed Articles
 
@@ -33,53 +33,6 @@
 ### Conference Papers Submitted
 - Dang, T. T. T., Casati, M., Arata, L., & Sckokai, P. "Crop insurance and pesticide use: evidence from the Italian apple sector." Submitted to AIEAA Conference and EAAE Congress 2025.
 
-## Project Deliverables
-
-### Work Package 1: Risk Qualification and Quantification
-- **[D1.1]** Report on the qualification and quantification of the risk and on the factors affecting risk 
-- **[D1.2]** Preliminary technical report on risks due to changing climatic conditions 
-- **[D1.5]** Final report on risks due to changing climatic conditions with "maps of risks" 
-- **[D1.6]** Policy brief on qualification and quantification of risk faced by farmers 
-
-### Work Package 2: Behavioral Factors in Risk Management
-- **[D2.1]** Report on the conducted systematic literature review
-- **[D2.2]** Report on the two economic experiments
-- **[D2.3]** Policy brief on behavioral factors influencing farmers' adoption of risk management strategies
-
-### Work Package 3: Explaining Risk Management Choices
-- **[D3.1]** Report assessing the performances of machine learning in comparison with traditional econometric analyses
-- **[D3.2]** Report on the identification of factors affecting farmers' participation to insurance schemes
-- **[D3.4]** Report on the identification of farmers' preferences for the characteristics of innovative RM tools
-- **[D3.5]** Policy brief on factors affecting risk management choices
-- **[D3.6]** Report on the identification of determinants of farmers' adoption of innovative RM tools
-
-### Work Package 4: Feasibility Studies of Innovative Risk Management Tools
-- **[D4.1]** Preliminary technical report on the design of weather-indexed and catastrophe insurances for selected sectors and areas
-- **[D4.2]** Policy brief on the feasibility of innovative crisis measures and RM tools envisaged by the new CAP
-- **[D4.3]** Final report on the design of weather-indexed and catastrophe insurances
-- **[D4.4]** Policy brief on the feasibility studies of innovative RM tools
-
-### Work Package 5: Potential Implications of New Policies and Risk Scenarios
-- **[D5.1]** Report on farmers' preferences for contract farming
-- **[D5.2]** Report on the potential impact of the introduction of innovative RM tools at farm level
-- **[D5.5]** Policy brief on the relationship between environmental targets and risk stabilization targets of the agricultural policies
-
-### Work Package 6: Stakeholder Engagement and Dissemination
-- **[D6.1]** Report on the farm survey
-- **[D6.2]** Focus group 
-- **[D6.3]** Course on Risk Management organized for young researchers 
-- **[D6.5]** Publication of the project book in Italian 
-
-### Work Package 7: Project and Data Management
-- **[D7]** Project and data management plan agreed by all Research Units 
-
-## Policy Briefs and Outreach Materials
-
-The project has produced multiple policy briefs targeting:
-- **Farmers and Agricultural Organizations**: Practical guidance on risk management tool adoption
-- **Policymakers**: Evidence-based recommendations for CAP implementation
-- **Insurance Sector**: Insights for product development and market expansion
-- **Environmental Agencies**: Analysis of trade-offs between environmental targets and risk management
 
 ## Educational Outputs
 
