@@ -1,6 +1,7 @@
  The Research Project
 
-![SUS-Risk Project Logo](assets/images/sus-risk-logo.png)
+![Logo Prin con scritta](https://github.com/user-attachments/assets/57442d0d-c775-4e41-a79c-f876f4c261e3)
+
 
 **Principal Investigator:** Prof. Simone Severini, University of Tuscia  
 **Duration:** 36 months (2022-2025)
@@ -8,6 +9,8 @@
 ## PRIN 2020 Project Funding Distribution
 
 ### Research Units and MUR Contributions
+
+![Picture1](https://github.com/user-attachments/assets/e764977f-0f7a-400b-912e-a7f7bd3f5c3f)
 
 | Responsible Investigator | Institution | Cofinancing (€) | MUR Contribution (€) |
 |--------------------------|-------------|-----------------|---------------------|
@@ -21,7 +24,7 @@
 **Total MUR Contribution:** € 606,961.00  
 **Total Amount of the Project:** € 726,063.00
 
-This research project aims to enhance knowledge in agricultural risk management through a holistic approach investigating all relevant aspects affecting risk management choices using cutting-edge methodologies.
+This research project aims to enhance knowledge in agricultural risk management through a holistic approach, investigating all relevant aspects affecting risk management choices using cutting-edge methodologies.
 
 ### Key Objectives
 
