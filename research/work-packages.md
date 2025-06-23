@@ -19,7 +19,7 @@
 ### Data Sources:
 
 - Individual data of all Italian FADN farms from 2008 to most recent available data (CREA-PB)
-- Historical climatic data and data on anomalies and historical yield data on selected crops (ISTAT and CNR)
+- Historical climatic data and data on anomalies using [AGRI4CAST](https://agri4cast.jrc.ec.europa.eu/) and [COPERNICUS](https://www.copernicus.eu/en) data
 
 
 ### Deliverables:
