@@ -9,7 +9,7 @@
 
 ### Research Units and MUR Contributions
 
-![Picture1](https://github.com/user-attachments/assets/e764977f-0f7a-400b-912e-a7f7bd3f5c3f)
+![Picture1](/Images/Universita.png)
 
 | Responsible Investigator | Institution | Cofinancing (€) | MUR Contribution (€) |
 |--------------------------|-------------|-----------------|---------------------|
