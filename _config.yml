@@ -11,14 +11,14 @@ theme: minima
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-readme-index
 
 # Navigation (using header_pages for minima theme)
 header_pages:
   - about/learn-about-our-research.md
   - about/team.md
   - research/publications.md
-  - news/updates.md
-  - contact.md
+  - about/contact.md
 
 # Minima theme settings
 minima:
