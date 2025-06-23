@@ -42,7 +42,7 @@ This research project aims to enhance knowledge in agricultural risk management 
 - [Learn more about our research](about/learn-about-our-research.md)
 - [Research Team](about/team.md)
 - [Research Outputs and Publications](research/publications.md)
-- [Contact](about/contact.md)
+
 
 ## About This Project
 
@@ -50,9 +50,6 @@ The "Towards a holistic approach to sustainable risk management in agriculture" 
 
 ## Contact Information
 
-For more information about this project, please visit our [contact page](contact.html) or reach out to the principal investigator.
+For more information about this project, please visit our [contact page](about/contact.md) or reach out to the principal investigator.
 Interest (PRIN) 2020 program.
 
-## Contact Information
-
-For more information about this project, please visit our [contact page](contact/) or reach out to the principal investigator.
