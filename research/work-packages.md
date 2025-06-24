@@ -113,7 +113,7 @@ This work package conducts systematic review of international literature investi
 | D3.2 | Report on identification of factors affecting farmers' participation to insurance schemes | UNITUS |  [Report D3.2](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.2/ReportD3.2.pdf) |
 | D3.3 | Paper on factors affecting farmers' participation to insurance schemes using Machine Learning | UNITUS |  [Paper D3.3](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.3/PaperD3.3.pdf)  |
 | D3.4 | Report on identification of farmers' preferences for characteristics of innovative RM tools | UNITN |   [Report D3.4](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.4/ReportD3.4.pdf)|
-| D3.5 | Policy brief on factors affecting risk management choices | UNIPD |   |
+| D3.5 | Policy brief on factors affecting risk management choices | UNIPD |  [Policy Brief D3.5](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.5/PolicyBriefD3.5.pdf) |
 | D3.6 | Report on identification of determinants of farmers' adoption of innovative RM tools | UNIPD |   |
 | D3.7 | Paper on investigation of farmers' preferences for characteristics of innovative RM tools | UNITN |   |
 | D3.8 | Paper on investigation of determinants of farmers' adoption of innovative RM tools | UNIPD |    |
