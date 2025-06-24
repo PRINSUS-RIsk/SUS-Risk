@@ -107,16 +107,16 @@ This work package conducts systematic review of international literature investi
 
 ### Deliverables:
 
-| Deliverable | Description | Leading RU |
-| :-- | :-- | :-- |
-| D3.1 | Report assessing the performances of machine learning vs traditional econometric analyses | UNITUS |
-| D3.2 | Report on identification of factors affecting farmers' participation to insurance schemes | UNITUS |
-| D3.3 | Paper on factors affecting farmers' participation to insurance schemes using Machine Learning | UNITUS |
-| D3.4 | Report on identification of farmers' preferences for characteristics of innovative RM tools | UNITN |
-| D3.5 | Policy brief on factors affecting risk management choices | UNIPD |
-| D3.6 | Report on identification of determinants of farmers' adoption of innovative RM tools | UNIPD |
-| D3.7 | Paper on investigation of farmers' preferences for characteristics of innovative RM tools | UNITN |
-| D3.8 | Paper on investigation of determinants of farmers' adoption of innovative RM tools | UNIPD | 
+| Deliverable | Description | Leading RU | Document |
+| :-- | :-- | :-- |:-- |
+| D3.1 | Report assessing the performances of machine learning vs traditional econometric analyses | UNITUS |   |
+| D3.2 | Report on identification of factors affecting farmers' participation to insurance schemes | UNITUS |   |
+| D3.3 | Paper on factors affecting farmers' participation to insurance schemes using Machine Learning | UNITUS |   |
+| D3.4 | Report on identification of farmers' preferences for characteristics of innovative RM tools | UNITN |   |
+| D3.5 | Policy brief on factors affecting risk management choices | UNIPD |   |
+| D3.6 | Report on identification of determinants of farmers' adoption of innovative RM tools | UNIPD |   |
+| D3.7 | Paper on investigation of farmers' preferences for characteristics of innovative RM tools | UNITN |   |
+| D3.8 | Paper on investigation of determinants of farmers' adoption of innovative RM tools | UNIPD |    |
 
 ### Expected Outcomes \& Stakeholder Impact:
 
@@ -151,12 +151,12 @@ This work package employs Machine Learning approaches (Shrinkage and Boosting) t
 
 ### Deliverables:
 
-| Deliverable | Description | Leading RU |
-| :-- | :-- | :-- |
-| D4.1 | Preliminary technical report on the design of weather-indexed and catastrophe insurances | UNIFG |
-| D4.2 | Policy brief on the feasibility of innovative crisis measures and RM tools envisaged by the new CAP | UNIPD |
-| D4.3 | Final report on the design of weather-indexed and catastrophe insurances | UNIFG |
-| D4.4 | Policy brief on the feasibility studies of innovative RM tools | UNIFG |
+| Deliverable | Description | Leading RU | Document |
+| :-- | :-- | :-- |:-- |
+| D4.1 | Preliminary technical report on the design of weather-indexed and catastrophe insurances | UNIFG |    |
+| D4.2 | Policy brief on the feasibility of innovative crisis measures and RM tools envisaged by the new CAP | UNIPD |    |
+| D4.3 | Final report on the design of weather-indexed and catastrophe insurances | UNIFG |    |
+| D4.4 | Policy brief on the feasibility studies of innovative RM tools | UNIFG |    |
 
 ### Expected Outcomes \& Stakeholder Impact:
 
@@ -191,14 +191,14 @@ This work package develops feasibility studies for new CAP measures including na
 
 ### Deliverables:
 
-| Deliverable | Description | Leading RU |
-| :-- | :-- | :-- |
-| D5.1 | Report on farmers' preferences for contract farming | UNIPD |
-| D5.2 | Report on the potential impact of the introduction of innovative RM tools at farm level | UNITUS |
-| D5.3 | Paper on the investigation of farmers' preferences for contract farming | UNIPD | 
-| D5.4 | Conference paper on the effect of the adoption of risk management tools on chemical use | UNICATT |
-| D5.5 | Policy brief on the relationship between environmental and risk stabilisation targets | UNICATT |
-| D5.6 | Paper on analysis of potential impact of innovative RM tools at farm level by PMP models | UNITUS |
+| Deliverable | Description | Leading RU | Document |
+| :-- | :-- | :-- | :-- |
+| D5.1 | Report on farmers' preferences for contract farming | UNIPD |    |
+| D5.2 | Report on the potential impact of the introduction of innovative RM tools at farm level | UNITUS |    |
+| D5.3 | Paper on the investigation of farmers' preferences for contract farming | UNIPD |     |
+| D5.4 | Conference paper on the effect of the adoption of risk management tools on chemical use | UNICATT |    |
+| D5.5 | Policy brief on the relationship between environmental and risk stabilisation targets | UNICATT |    |
+| D5.6 | Paper on analysis of potential impact of innovative RM tools at farm level by PMP models | UNITUS |    |
 
 ### Expected Outcomes \& Stakeholder Impact:
 
@@ -227,12 +227,12 @@ This work package investigates the interaction between risk management tools and
 
 ### Deliverables:
 
-| Deliverable | Description | Leading RU | 
-| :-- | :-- | :-- | 
-| D6.1 | Report on the farm survey | UNITN | 
-| D6.2 | Focus group minutes (5) | UNITUS | 
-| D6.3 | Course on RM organised for young researchers | UNITUS |
-| D6.5 | Publication of the project book | All |
+| Deliverable | Description | Leading RU |  Document |
+| :-- | :-- | :-- |  :-- | 
+| D6.1 | Report on the farm survey | UNITN |      | 
+| D6.2 | Focus group minutes (5) | UNITUS |      |  
+| D6.3 | Course on RM organised for young researchers | UNITUS |      | 
+| D6.5 | Publication of the project book | All |      | 
 
 ### Expected Outcomes \& Stakeholder Impact:
 
@@ -264,9 +264,9 @@ This work package ensures continuous engagement with farmers, policymakers, insu
 
 ### Deliverables:
 
-| Deliverable | Description | Leading RU |
-| :-- | :-- | :-- | 
-| D7 | Project and data management plan agreed by all RUs | UNITUS |
+| Deliverable | Description | Leading RU |  Document |
+| :-- | :-- | :-- |  :-- | 
+| D7 | Project and data management plan agreed by all RUs | UNITUS |    |
 
 ### Key Tasks:
 
