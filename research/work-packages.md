@@ -109,7 +109,7 @@ This work package conducts systematic review of international literature investi
 
 | Deliverable | Description | Leading RU | Document |
 | :-- | :-- | :-- |:-- |
-| D3.1 | Report assessing the performances of machine learning vs traditional econometric analyses | UNITUS |   |
+| D3.1 | Report assessing the performances of machine learning vs traditional econometric analyses | UNITUS |   [Report D2.1](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.1/Report3.1.pdf) |
 | D3.2 | Report on identification of factors affecting farmers' participation to insurance schemes | UNITUS |   |
 | D3.3 | Paper on factors affecting farmers' participation to insurance schemes using Machine Learning | UNITUS |   |
 | D3.4 | Report on identification of farmers' preferences for characteristics of innovative RM tools | UNITN |   |
