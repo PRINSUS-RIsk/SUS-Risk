@@ -115,8 +115,8 @@ This work package conducts systematic review of international literature investi
 | D3.4 | Report on identification of farmers' preferences for characteristics of innovative RM tools | UNITN |   [Report D3.4](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.4/ReportD3.4.pdf)|
 | D3.5 | Policy brief on factors affecting risk management choices | UNIPD |  [Policy Brief D3.5](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.5/PolicyBriefD3.5.pdf) |
 | D3.6 | Report on identification of determinants of farmers' adoption of innovative RM tools | UNIPD |  [Report D3.6](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.6/Report_D3.6.pdf) |
-| D3.7 | Paper on investigation of farmers' preferences for characteristics of innovative RM tools | UNITN |   |
-| D3.8 | Paper on investigation of determinants of farmers' adoption of innovative RM tools | UNIPD |    |
+| D3.7 | Paper on investigation of farmers' preferences for characteristics of innovative RM tools | UNITN | The paper has been submitted and will be available after the revision process. The paper is available only to the reviewers  |
+| D3.8 | Paper on investigation of determinants of farmers' adoption of innovative RM tools | UNIPD | The paper has been submitted and will be available after the revision process. The paper is available only to the reviewers   |
 
 ### Expected Outcomes \& Stakeholder Impact:
 
