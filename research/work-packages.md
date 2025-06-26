@@ -266,7 +266,7 @@ This work package ensures continuous engagement with farmers, policymakers, insu
 
 | Deliverable | Description | Leading RU |  Document |
 | :-- | :-- | :-- |  :-- | 
-| D7 | Project and data management plan agreed by all RUs | UNITUS |    |
+| D7 | Project and data management plan | UNITUS | [Plan D7.1](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D7/P&DMMP_D7.pdf) |
 
 ### Key Tasks:
 
