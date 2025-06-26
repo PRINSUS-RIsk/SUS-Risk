@@ -229,7 +229,7 @@ This work package investigates the interaction between risk management tools and
 
 | Deliverable | Description | Leading RU |  Document |
 | :-- | :-- | :-- |  :-- | 
-| D6.1 | Report on the farm survey | UNITN |      | 
+| D6.1 | Report on the farm survey | UNITN | [Report D6.1](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.6/D6.1/Report_D6.1.pdf) | 
 | D6.2 | Focus group minutes (5) | UNITUS |      |  
 | D6.3 | Course on RM organised for young researchers | UNITUS |      | 
 | D6.5 | Publication of the project book | All |      | 
