@@ -195,7 +195,7 @@ This work package develops feasibility studies for new CAP measures including na
 | :-- | :-- | :-- | :-- |
 | D5.1 | Report on farmers' preferences for contract farming | UNIPD | [Report D5.1](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.5/D5.1/Report_D5.1.pdf) |
 | D5.2 | Report on the potential impact of the introduction of innovative RM tools at farm level | UNITUS |  [Report D5.2](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.5/D5.2/Report_D5.2.pdf)    |
-| D5.3 | Paper on the investigation of farmers' preferences for contract farming | UNIPD |     |
+| D5.3 | Paper on the investigation of farmers' preferences for contract farming | UNIPD |  [Paper D5.2](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.5/D5.3/Paper_D5.3.pdf)      |
 | D5.4 | Conference paper on the effect of the adoption of risk management tools on chemical use | UNICATT |    |
 | D5.5 | Policy brief on the relationship between environmental and risk stabilisation targets | UNICATT |    |
 | D5.6 | Paper on analysis of potential impact of innovative RM tools at farm level by PMP models | UNITUS |    |
