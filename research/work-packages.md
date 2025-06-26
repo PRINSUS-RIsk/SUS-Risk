@@ -155,7 +155,8 @@ This work package employs Machine Learning approaches (Shrinkage and Boosting) t
 | :-- | :-- | :-- |:-- |
 | D4.1 | Preliminary technical report on the design of weather-indexed and catastrophe insurances | UNIFG | [Report D4.1](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.4/D4.1/Report_D4.1.pdf) |
 | D4.2 | Policy brief on the feasibility of innovative crisis measures and RM tools envisaged by the new CAP | UNIPD | [Policy Brief  D4.2](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.4/D4.2/PB_D4.2.pdf)|
-| D4.3 | Final report on the design of weather-indexed and catastrophe insurances | UNIFG |    |
+| D4.3 | Final report on the design of weather-indexed and catastrophe insurances | UNIFG | [Report D4.3](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.4/D4.3/Report_D4.3.pdf)
+   |
 | D4.4 | Policy brief on the feasibility studies of innovative RM tools | UNIFG |    |
 
 ### Expected Outcomes \& Stakeholder Impact:
