@@ -1,9 +1,11 @@
 # Pubblications
 ## Peer-Reviewed Articles
 
+### 2025
+- Biagini, L. (2025). "The Unintended Consequences of Farm Insurance: A Causal Investigation on Income, Productivity and Input Dynamics" *Journal of Agricultural Economics* forthcoming **(Winner of Prize Essay 2025 of the Agricultural Economics Society)**
+
 ### 2024
-- Penone, C., Giampietri, E., & Trestini, S. (2024). "Exploring farmers' intention to adopt marketing contracts: empirical insights using the TOE framework." *Agricultural and Food Economics*, 12(1), 39. [https://doi.org/10.1186/s40100-024-00324-8]
-- Biagini, L. (2024). "The Unintended Consequences of Farm Insurance: A Causal Investigation on Income, Productivity and Input Dynamics" *Journal of Agricultural Economics* forthcoming **(Winner of Prize Essay 2025 of the Agricultural Economics Society)**
+- Penone, C., Giampietri, E., & Trestini, S. (2024). "Exploring farmers' intention to adopt marketing contracts: empirical insights using the TOE framework." *Agricultural and Food Economics*, 12(1), 39. [https://doi.org/10.1186/s40100-024-00324-8] [Download the Paper](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.5/D5.3/Paper_D5.3.pdf)
 
 ### 2023
 - Multiple research outputs from the PRIN 2020 project work packages contributed to the scientific literature on agricultural risk management and behavioral economics.
