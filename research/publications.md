@@ -5,10 +5,12 @@
 - Biagini, L. (2025). "The Unintended Consequences of Farm Insurance: A Causal Investigation on Income, Productivity and Input Dynamics" *Journal of Agricultural Economics* forthcoming **(Winner of Prize Essay 2025 of the Agricultural Economics Society)**
 
 ### 2024
+- Chab L., Biagini L., Severini S. (2024). Towards an Effective Risk Management in Durum Wheat Production: A Systematic Review and Bibliometric Analysis of Factors Influencing Quality and Yield. *Agriculture* 14(12):2266. DOI: [https://doi.org/10.3390/agriculture14122266] . [Download the Paper](https://github.com/user-attachments/files/20961134/Chab.et.al_Agriculture-14-02266-v2_2024.pdf)
+
 - Penone, C., Giampietri, E., & Trestini, S. (2024). "Exploring farmers' intention to adopt marketing contracts: empirical insights using the TOE framework." *Agricultural and Food Economics*, 12(1), 39. [https://doi.org/10.1186/s40100-024-00324-8] . [Download the Paper](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.5/D5.3/Paper_D5.3.pdf)
 
 ### 2023
-- Multiple research outputs from the PRIN 2020 project work packages contributed to the scientific literature on agricultural risk management and behavioral economics.
+- Arata L., Cerroni S., Santeramo F.G., Trestini S., Severini S. (2023). Towards a holistic approach to sustainable risk management in agriculture in the EU: a literature review. Bio-based and Applied Economics (BAE), 12(3): 165-182. ISSN: 2280-6172 (online). [https://oaj.fupress.net/index.php/bae/article/view/14492] . [Download the Paper](https://github.com/user-attachments/files/20961138/OP08829_165-182.pdf)
 
 ### 2022
 - Biagini, L., & Severini, S. (2022). "How Does the Farmer Strike a Balance between Income and Risk across Inputs? An Application in Italian Field Crop Farms." *Sustainability*, 14, 16098. [https://doi.org/10.3390/su142316098] [Download the Paper](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.3/sustainability-14-16098.pdf)
