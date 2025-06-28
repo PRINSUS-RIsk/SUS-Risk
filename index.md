@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# The Research Project
+# Towards a holistic approach to sustainable risk management in agriculture" (SUS-RISK) 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/62c034a3-3cd5-47b6-9479-75ea773e61ec" alt="Logo Prin con scritta_300"/>
