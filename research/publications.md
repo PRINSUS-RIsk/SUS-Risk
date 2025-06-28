@@ -11,6 +11,7 @@
 
 ### 2023
 - Arata L., Cerroni S., Santeramo F.G., Trestini S., Severini S. (2023). Towards a holistic approach to sustainable risk management in agriculture in the EU: a literature review. Bio-based and Applied Economics (BAE), 12(3): 165-182. ISSN: 2280-6172 (online). [https://oaj.fupress.net/index.php/bae/article/view/14492] . [Download the Paper](https://github.com/user-attachments/files/20961138/OP08829_165-182.pdf)
+- Zinnanti, C., Coletta, A., Torrigiani, M. and Severini, S. (2023), "Simulating risk management strategies for specialized farming systems: the potential impact of the EU income stabilization tool", Agricultural Finance Review, Vol. 83 No. 2, pp. 264-285. [https://doi.org/10.1108/AFR-11-2021-0146] 
 
 ### 2022
 - Biagini, L., & Severini, S. (2022). "How Does the Farmer Strike a Balance between Income and Risk across Inputs? An Application in Italian Field Crop Farms." *Sustainability*, 14, 16098. [https://doi.org/10.3390/su142316098] [Download the Paper](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.3/sustainability-14-16098.pdf)
