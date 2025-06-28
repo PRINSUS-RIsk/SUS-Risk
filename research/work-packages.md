@@ -35,6 +35,9 @@ This work package focuses on the qualification and quantification of agricultura
 
 ---
 
+## See [Pubblications](publications.md)
+## See [Deliverables](Deliverables_Reports_PB.md)
+
 ## WP2: Behavioural factors influencing farmers' adoption of risk management strategies
 
 **Lead Institution:** UNITN
