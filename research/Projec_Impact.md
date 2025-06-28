@@ -252,7 +252,7 @@ Building on this foundation, future agricultural policy research should:
 
 The project represents a significant contribution to evidence-based agricultural policy development and establishes a foundation for continued research excellence in this critical area of policy research and development.   
 
-## See [Pubblications](research/publications.md)
-## See [Work Packages](research/work-packages.md)
-## See [Deliverables](research/Deliverables_Reports_PB.md)
+## See [Pubblications](research/publications)
+## See [Work Packages](research/work-packages)
+## See [Deliverables](research/Deliverables_Reports_PB)
 
