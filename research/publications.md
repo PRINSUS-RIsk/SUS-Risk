@@ -30,8 +30,6 @@
 - **AIEAA 2023**: "Climate Change Impacts on Italian Farm Risk Profiles"
   
 
-## See [Work Packages](work-packages.md)
-## See [Deliverables](Deliverables_Reports_PB.md)
 
 
 ### Conference Papers Submitted
@@ -53,9 +51,10 @@ The project has developed and applied:
 - Comprehensive risk mapping methodologies for climate change scenarios
 
 
-
-[Work Packages →](/research/work-packages.md)
-
+## See [Work Packages](work-packages.md)
+## See [Deliverables](Deliverables_Reports_PB.md)
 ---
+
+
 
 *This document reflects the outputs of the PRIN 2020 project "Towards a holistic approach to sustainable risk management in agriculture" (2022-2025), led by Professor Simone Severini at the University of Tuscia with research units at Universities of Padova, Trento, Foggia, and Università Cattolica del Sacro Cuore.*
