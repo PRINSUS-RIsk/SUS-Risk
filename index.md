@@ -4,34 +4,28 @@ title: Home
 ---
 
 
-<center>
+<!-- ──────────────────────────────────────────────
+     SUS-RISK: Centered hero block for GitHub READMEs
+     Tested June 2025 on github.com
+     ────────────────────────────────────────────── -->
 
-# Towards a holistic approach to sustainable risk management in agriculture - (SUS-RISK)
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/62c034a3-3cd5-47b6-9479-75ea773e61ec" alt="Logo Prin con scritta_300"/>
-</p>
-
-**Principal Investigator:** Prof. Simone Severini, University of Tuscia  
-**Duration:** 36 months (2022-2025)
-
-</center>
-
----
 <div align="center">
 
-# Towards a holistic approach to sustainable risk management in agriculture - (SUS-RISK)
+<!-- Main title -->
+<h1>Towards a holistic approach to sustainable risk management in agriculture – (SUS-RISK)</h1>
 
+<!-- Project logo -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/62c034a3-3cd5-47b6-9479-75ea773e61ec" alt="Logo Prin con scritta_300"/>
+  <img src="https://github.com/user-attachments/assets/62c034a3-3cd5-47b6-9479-75ea773e61ec"
+       alt="Logo Prin con scritta_300">
 </p>
 
-**Principal Investigator:** Prof. Simone Severini, University of Tuscia  
-**Duration:** 36 months (2022-2025)
+<!-- Key project metadata -->
+<p><strong>Principal Investigator:</strong> Prof. Simone Severini, University of Tuscia  
+<strong>Duration:</strong> 36 months (2022-2025)</p>
 
 </div>
 
----
 
 
 
