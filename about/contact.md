@@ -16,29 +16,41 @@ Email: severini@unitus.it
 
 **Prof. Simone Severini**  
 [Department of Agriculture and Forest Sciences (DAFNE)](https://www.unitus.it/en/departments/dafne/)  
+![image](https://github.com/user-attachments/assets/0f42dc0a-fbd0-44a8-a9eb-eb4efa8ca560)
 University of Tuscia  
 Email: severini@unitus.it
 
 ### University of Padova
 **Prof. Samuele Trestini**  
+![Samuele Trestini_photo](https://github.com/user-attachments/assets/c5e310dd-068c-454e-ac60-61bafd0e6d51)
 [Department of Land, Environment, Agriculture and Forestry (TESAF)](https://alpinenetwork.org/en/dipartimento-territorio-e-sistemi-agroforestali-tesaf-universita-di-padova/#:~:text=The%20Department%20TESAF%20is%20a%20multidisciplinary%20structure%20acting,resources%2C%20mechanization%20in%20agriculture%20and%20forestry%20and%20phytopathology)  
 University of Padova  
 Email: samuele.trestini@unipd.it
 
 ### University of Trento
-**Prof. Roberta Raffaelli**  
+**Prof. Roberta Raffaelli** 
+![Roberta Raffaelli_photo](https://github.com/user-attachments/assets/fcb36d64-bd32-4458-aa11-618145778be5)
 [Department of Economics and Management](https://www.economia.unitn.it/en)  
 University of Trento  
 Email: roberta.raffaelli@unitn.it
 
+**Prof. Simone Cerroni** 
+![image](https://github.com/user-attachments/assets/5ec19f3f-2204-4b91-be6a-64c552e83df2)
+[Department of Economics and Management](https://www.economia.unitn.it/en)  
+University of Trento  
+Email: simone.cerroni@unitn.it 
+
 ### University of Foggia
 **Prof. Fabio Gaetano Santeramo**  
+![Roberta Raffaelli_photo](https://github.com/user-attachments/assets/5fdc3062-1b1f-45dd-945a-b49ed7bb0736)
 [Department of Agriculture, Food, Natural Resources and Engineering (DAFNE)](https://www.agraria.unifg.it/en)  
 University of Foggia  
 Email: fabio.santeramo@unifg.it
 
 ### Università Cattolica del Sacro Cuore
 **Dr. Linda Arata**  
+![Roberta Raffaelli_photo](https://github.com/user-attachments/assets/21d346c8-31ba-48a8-a3a2-daba3c0f12bd)
+
 [Department of Economics and Finance](https://dipartimenti.unicatt.it/defin?rdeLocaleAttr=en)  
 Università Cattolica del Sacro Cuore  
 Email: linda.arata@unicatt.it
