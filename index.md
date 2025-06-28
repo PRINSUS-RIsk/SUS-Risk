@@ -22,7 +22,12 @@ title: Home
 
 <!-- Key project metadata -->
 <p><strong>Principal Investigator:</strong> Prof. Simone Severini, University of Tuscia  
-<strong>Duration:</strong> 36 months (2022-2025)</p>
+
+     
+<strong>Duration:</strong> 36 months (2022-2025)</p>     
+
+<strong> PRIN ID: 20205L79R8 </p>
+
 
 </div>
 
