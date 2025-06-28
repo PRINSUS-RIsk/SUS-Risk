@@ -16,13 +16,13 @@ Email: severini@unitus.it
 
 **Prof. Simone Severini**  
 [Department of Agriculture and Forest Sciences (DAFNE)](https://www.unitus.it/en/departments/dafne/)  
-<img src="https://github.com/user-attachments/assets/0f42dc0a-fbd0-44a8-a9eb-eb4efa8ca560" alt="image" width="300" height="300">      
+<img src="https://github.com/user-attachments/assets/0f42dc0a-fbd0-44a8-a9eb-eb4efa8ca560" alt="Severini" width="300" height="300">      
 University of Tuscia  
 Email: severini@unitus.it
 
 ### University of Padova
 **Prof. Samuele Trestini**  
-![Samuele Trestini_photo](https://github.com/user-attachments/assets/c5e310dd-068c-454e-ac60-61bafd0e6d51)
+<img src="https://github.com/user-attachments/assets/c5e310dd-068c-454e-ac60-61bafd0e6d51" alt="Trestini" width="300" height="300">    
 [Department of Land, Environment, Agriculture and Forestry (TESAF)](https://alpinenetwork.org/en/dipartimento-territorio-e-sistemi-agroforestali-tesaf-universita-di-padova/#:~:text=The%20Department%20TESAF%20is%20a%20multidisciplinary%20structure%20acting,resources%2C%20mechanization%20in%20agriculture%20and%20forestry%20and%20phytopathology)  
 University of Padova  
 Email: samuele.trestini@unipd.it
