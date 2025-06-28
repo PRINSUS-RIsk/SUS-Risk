@@ -4,7 +4,7 @@ title: Home
 ---
 
 <p align="center">
-  # Towards a holistic approach to sustainable risk management in agriculture (SUS-RISK)
+   *Towards a holistic approach to sustainable risk management in agriculture (SUS-RISK)
 </p>
 
 
