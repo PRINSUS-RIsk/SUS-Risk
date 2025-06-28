@@ -28,6 +28,10 @@
     - Dang, T. T. T., Casati, M., Arata, L., & Sckokai, P. "Crop insurance and pesticide use: evidence from the Italian apple sector." Submitted to AIEAA Conference and EAAE Congress 2025.
 - **AIEAA 2024 Conference**: "Behavioral Factors in Agricultural Insurance Adoption"
 - **AIEAA 2023**: "Climate Change Impacts on Italian Farm Risk Profiles"
+  
+
+## See [Work Packages](work-packages.md)
+## See [Deliverables](Deliverables_Reports_PB.md)
 
 
 ### Conference Papers Submitted
