@@ -250,4 +250,9 @@ Building on this foundation, future agricultural policy research should:
 - **Enhance interdisciplinary collaboration** incorporating environmental, social, and technological perspectives
 - **Invest in digital research infrastructure** supporting large-scale stakeholder engagement and data collection
 
-The project represents a significant contribution to evidence-based agricultural policy development and establishes a foundation for continued research excellence in this critical area of policy research and development.
+The project represents a significant contribution to evidence-based agricultural policy development and establishes a foundation for continued research excellence in this critical area of policy research and development.   
+
+## See [Pubblications](research/publications.md)
+## See [Work Packages](research/work-packages.md)
+## See [Deliverables](research/Deliverables_Reports_PB.md)
+
