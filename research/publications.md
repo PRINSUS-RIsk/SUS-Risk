@@ -14,10 +14,6 @@
 - Biagini, L., & Severini, S. (2022). "How Does the Farmer Strike a Balance between Income and Risk across Inputs? An Application in Italian Field Crop Farms." *Sustainability*, 14, 16098. [https://doi.org/10.3390/su142316098] [Download the Paper](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.3/sustainability-14-16098.pdf)
 
 
-
-### Specialized Journals
-- Giampietri, E., & Trestini, S. "Farmer preference for innovative risk management tools to address sanitary risks: evidence based on a case study in northeastern Italy." *Pest Management Science* (Under review)
-
 ## Conference Presentations
 
 ### International Conferences
