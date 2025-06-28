@@ -4,17 +4,18 @@ title: Home
 ---
 
 
+<div align="center">
+
 # Towards a holistic approach to sustainable risk management in agriculture - (SUS-RISK)
 
-
-
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/62c034a3-3cd5-47b6-9479-75ea773e61ec" alt="Logo Prin con scritta_300"/>
 </p>
 
-
 **Principal Investigator:** Prof. Simone Severini, University of Tuscia  
 **Duration:** 36 months (2022-2025)
+
+</div>
 
 ## PRIN 2020 Project Funding Distribution
 
