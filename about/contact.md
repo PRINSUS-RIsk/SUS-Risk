@@ -39,7 +39,7 @@ Email: fabio.santeramo@unifg.it
 
 ### Università Cattolica del Sacro Cuore
 **Dr. Linda Arata**  
-Department of Economics and Finance  
+[Department of Economics and Finance](https://dipartimenti.unicatt.it/defin?rdeLocaleAttr=en)  
 Università Cattolica del Sacro Cuore  
 Email: linda.arata@unicatt.it
 
