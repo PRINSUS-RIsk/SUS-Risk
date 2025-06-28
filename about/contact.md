@@ -8,7 +8,7 @@ title: Contact
 ## Principal Investigator
 
 **Prof. Simone Severini**  
-University of Tuscia - DAFNE  
+Department of of Agriculture and Forest Sciences (DAFNE)   
 Email: severini@unitus.it
 
 ## Project Coordinators
