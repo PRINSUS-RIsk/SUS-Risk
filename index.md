@@ -3,11 +3,9 @@ layout: default
 title: Home
 ---
 
-<div align="center">
 
 # Towards a holistic approach to sustainable risk management in agriculture - (SUS-RISK)
 
-</div>
 
 
 <p align="center">
