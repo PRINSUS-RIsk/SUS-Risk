@@ -13,11 +13,7 @@
 ### 2022
 - Biagini, L., & Severini, S. (2022). "How Does the Farmer Strike a Balance between Income and Risk across Inputs? An Application in Italian Field Crop Farms." *Sustainability*, 14, 16098. [https://doi.org/10.3390/su142316098] [Download the Paper](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.3/sustainability-14-16098.pdf)
 
-## Papers Under Review and Submitted
 
-### Agricultural Economics Journals
-- Casati, M., Arata, L., Varacca, A., & Sckokai, P. "The relationship between pesticides, weather and risk in apple production." *European Review of Agricultural Economics* (Under review)
-- Buttinelli, R., Di Giuseppe, E., Quaresima, S., Di Paola, A., & Cortignani, R. "Drought and Irrigation Requirements: Adaptation Strategies and Economic Impacts on Italian Arable Farms under different First-Pillar CAP Scenarios." *Agricultural Water Management* (Under review)
 
 ### Specialized Journals
 - Giampietri, E., & Trestini, S. "Farmer preference for innovative risk management tools to address sanitary risks: evidence based on a case study in northeastern Italy." *Pest Management Science* (Under review)
