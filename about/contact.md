@@ -56,7 +56,7 @@ Università Cattolica del Sacro Cuore
 Email: linda.arata@unicatt.it
 
 **Prof. Paolo Sckokai**  
-<img src="ttps://github.com/user-attachments/assets/134068ef-6207-41ed-b76a-8f6b92e46648" alt="Sckokai" width="300" height="300">    
+<img src="https://github.com/user-attachments/assets/134068ef-6207-41ed-b76a-8f6b92e46648" alt="Sckokai" width="300" height="300">    
 
 [Department of Economics and Finance](https://dipartimenti.unicatt.it/defin?rdeLocaleAttr=en)  
 Università Cattolica del Sacro Cuore  
