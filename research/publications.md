@@ -12,6 +12,8 @@
 
 ### 2022
 - Biagini, L., & Severini, S. (2022). "How Does the Farmer Strike a Balance between Income and Risk across Inputs? An Application in Italian Field Crop Farms." *Sustainability*, 14, 16098. [https://doi.org/10.3390/su142316098] [Download the Paper](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.3/sustainability-14-16098.pdf)
+- Trestini S., Morari F., Pirotti F., Epstein D. A. and Severini S., "How can data monitoring and crop modelling support agricultural risk management solutions in climate change scenarios?," 2022 IEEE Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2022, pp. 298-302, doi: [https://doi.org/10.1109/MetroAgriFor55389.2022.9964867] .
+[Download the paper](https://github.com/user-attachments/files/20961127/How_can_data_monitoring_and_crop_modelling_support_agricultural_risk_management_solutions_in_climate_change_scenarios.pdf)
 
 
 ## Conference Presentations
