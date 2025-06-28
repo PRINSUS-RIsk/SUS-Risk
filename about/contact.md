@@ -16,7 +16,7 @@ Email: severini@unitus.it
 
 **Prof. Simone Severini**  
 [Department of Agriculture and Forest Sciences (DAFNE)](https://www.unitus.it/en/departments/dafne/)  
-<img src="https://github.com/user-attachments/assets/0f42dc0a-fbd0-44a8-a9eb-eb4efa8ca560" alt="image" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/0f42dc0a-fbd0-44a8-a9eb-eb4efa8ca560" alt="image" width="300" height="300">      
 University of Tuscia  
 Email: severini@unitus.it
 
