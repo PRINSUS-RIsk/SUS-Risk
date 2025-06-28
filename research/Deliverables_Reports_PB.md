@@ -1,4 +1,4 @@
-# Deliverables, Reports and Policy Brief
+# Deliverables
 ## WP1: Risk Qualification and Quantification
 
 ### Description:
