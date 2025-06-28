@@ -29,7 +29,7 @@ Email: samuele.trestini@unipd.it
 
 ### University of Trento
 **Prof. Roberta Raffaelli** 
-![Roberta Raffaelli_photo](https://github.com/user-attachments/assets/fcb36d64-bd32-4458-aa11-618145778be5)
+<img src="https://github.com/user-attachments/assets/fcb36d64-bd32-4458-aa11-618145778be5" alt="Raffaelli" width="300" height="300">  
 [Department of Economics and Management](https://www.economia.unitn.it/en)  
 University of Trento  
 Email: roberta.raffaelli@unitn.it
