@@ -43,6 +43,9 @@ University of Tuscia
 ### Università Cattolica del Sacro Cuore
 **Dr. Linda Arata**  
  <img src="https://github.com/user-attachments/assets/41544120-4054-42b0-b0ac-ea3ff39104dc" alt="Arata" width="300" height="300">  
+**Prof. Paolo Sckokai**  
+<img src="https://github.com/user-attachments/assets/134068ef-6207-41ed-b76a-8f6b92e46648" alt="Sckokai" width="300" height="300">    
+
 
 [Department of Economics and Finance](https://dipartimenti.unicatt.it/defin?rdeLocaleAttr=en)  
 *Expertise:* Farm-level mathematical programming models, agricultural production risk analysis
