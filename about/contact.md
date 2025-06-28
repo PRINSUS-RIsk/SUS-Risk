@@ -15,7 +15,7 @@ Email: severini@unitus.it
 
 ### University of Tuscia (Coordinator)
 **Prof. Simone Severini**  
-Department of Economics, Engineering, Society and Business Organization (DEIM)  
+Department of of Agriculture and Forest Sciences (DAFNE)  
 University of Tuscia  
 Email: severini@unitus.it
 
