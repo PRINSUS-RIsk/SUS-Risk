@@ -35,16 +35,14 @@ University of Trento
 Email: roberta.raffaelli@unitn.it
 
 **Prof. Simone Cerroni** 
-
 <img src="https://github.com/user-attachments/assets/5ec19f3f-2204-4b91-be6a-64c552e83df2" alt="Cerroni" width="300" height="300">    
-
 [Department of Economics and Management](https://www.economia.unitn.it/en)  
 University of Trento  
 Email: simone.cerroni@unitn.it 
 
 ### University of Foggia
 **Prof. Fabio Gaetano Santeramo**  
-![Roberta Raffaelli_photo](https://github.com/user-attachments/assets/5fdc3062-1b1f-45dd-945a-b49ed7bb0736)
+<img src="https://github.com/user-attachments/assets/c345a1fc-884a-4d8f-bf23-2497a88c5ef5" alt="FGS" width="300" height="300">    
 [Department of Agriculture, Food, Natural Resources and Engineering (DAFNE)](https://www.agraria.unifg.it/en)  
 University of Foggia  
 Email: fabio.santeramo@unifg.it
