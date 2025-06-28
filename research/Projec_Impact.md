@@ -1,7 +1,7 @@
 # Project Impact
 
 As of June 2025, the project has:
-- Produced **2 published peer-reviewed articles** with additional papers under review
+- Produced **7 published peer-reviewed articles** with additional papers under review
 - Completed **20+ major research deliverables**
 - Engaged **over 300 farmers** in behavioral experiments and surveys
 - Conducted **5 stakeholder focus groups** across Italy
