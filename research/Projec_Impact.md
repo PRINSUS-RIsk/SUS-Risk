@@ -9,7 +9,7 @@ As of June 2025, the project has:
 - Contributed to **CAP policy discussions** through evidence-based recommendations
 
 
-##Executive Summary: 
+## Executive Summary
 This agricultural research project has demonstrated significant impact across multiple dimensions including scientific output, stakeholder engagement, policy influence, and capacity building. As of June 2025, the project has achieved remarkable success in producing evidence-based recommendations for Common Agricultural Policy (CAP) reform while engaging diverse stakeholder communities and training the next generation of agricultural researchers.
 
 ## Scientific Output and Research Deliverables
