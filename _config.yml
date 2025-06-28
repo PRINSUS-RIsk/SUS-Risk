@@ -15,7 +15,7 @@ plugins:
 
 # Navigation (using header_pages for minima theme)
 header_pages:
-  - about/learn-about-our-research.md
+  - about/Project_Overview.md
   - about/team.md
   - research/publications.md
   - research/work-packages.md
