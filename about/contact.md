@@ -34,7 +34,7 @@ Email: samuele.trestini@unipd.it
 University of Trento  
 Email: roberta.raffaelli@unitn.it
 
-**Prof. Simone Cerroni** 
+**Prof. Simone Cerroni**    
 <img src="https://github.com/user-attachments/assets/5ec19f3f-2204-4b91-be6a-64c552e83df2" alt="Cerroni" width="300" height="300">    
 [Department of Economics and Management](https://www.economia.unitn.it/en)  
 University of Trento  
@@ -49,11 +49,19 @@ Email: fabio.santeramo@unifg.it
 
 ### Università Cattolica del Sacro Cuore
 **Dr. Linda Arata**  
-![Roberta Raffaelli_photo](https://github.com/user-attachments/assets/21d346c8-31ba-48a8-a3a2-daba3c0f12bd)
+<img src="https://github.com/user-attachments/assets/41544120-4054-42b0-b0ac-ea3ff39104dc" alt="Arata" width="300" height="300">  
 
 [Department of Economics and Finance](https://dipartimenti.unicatt.it/defin?rdeLocaleAttr=en)  
 Università Cattolica del Sacro Cuore  
 Email: linda.arata@unicatt.it
+
+**Prof. Paolo Sckokai**  
+<img src="ttps://github.com/user-attachments/assets/134068ef-6207-41ed-b76a-8f6b92e46648" alt="Sckokai" width="300" height="300">  
+![image](https://github.com/user-attachments/assets/134068ef-6207-41ed-b76a-8f6b92e46648)
+[Department of Economics and Finance](https://dipartimenti.unicatt.it/defin?rdeLocaleAttr=en)  
+Università Cattolica del Sacro Cuore  
+Email: paolo.sckokai@unicatt.it
+
 
 ## Project Information
 
