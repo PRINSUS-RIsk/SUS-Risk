@@ -1,6 +1,4 @@
-# Learn More About Our Research
-
-## Project Overview
+# Project Overview
 
 The "Towards a holistic approach to sustainable risk management in agriculture" (SUS-RISK) project is a three-year research initiative funded by the Italian Ministry of University and Research (MUR) through the Projects of Relevant National Interest (PRIN) 2020 program (Grant No. 20205L79R8). Running from June 2022 to May 2025, the project aims to enhance knowledge in agricultural risk management through a holistic approach that investigates all relevant aspects affecting risk management choices using cutting-edge methodologies.
 
