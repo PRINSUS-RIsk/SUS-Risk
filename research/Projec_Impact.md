@@ -8,6 +8,8 @@ As of June 2025, the project has:
 - Trained **young researchers** through specialized courses
 - Contributed to **CAP policy discussions** through evidence-based recommendations
 
+![image](https://github.com/user-attachments/assets/9ee1c940-3882-4bb2-bd54-9239d6146947)
+
 
 This agricultural research project has demonstrated significant impact across multiple dimensions including scientific output, stakeholder engagement, policy influence, and capacity building. As of June 2025, the project has achieved remarkable success in producing evidence-based recommendations for Common Agricultural Policy (CAP) reform while engaging diverse stakeholder communities and training the next generation of agricultural researchers.
 
