@@ -27,13 +27,13 @@ Email: samuele.trestini@unipd.it
 
 ### University of Trento
 **Prof. Roberta Raffaelli**  
-Department of Economics and Management  
+[Department of Economics and Management](https://www.economia.unitn.it/en)  
 University of Trento  
 Email: roberta.raffaelli@unitn.it
 
 ### University of Foggia
 **Prof. Fabio Gaetano Santeramo**  
-Department of Agriculture, Food, Natural Resources and Engineering (DAFNE)  
+[Department of Agriculture, Food, Natural Resources and Engineering (DAFNE)](https://www.agraria.unifg.it/en)  
 University of Foggia  
 Email: fabio.santeramo@unifg.it
 
