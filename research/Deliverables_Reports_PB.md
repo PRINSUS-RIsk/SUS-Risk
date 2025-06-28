@@ -110,3 +110,9 @@ This work package ensures continuous engagement with farmers, policymakers, insu
 ## See [Pubblications](publications.md)
 ## See [Work Packages](work-packages.md)
 
+---
+
+
+
+
+*This document reflects the outputs of the PRIN 2020 project "Towards a holistic approach to sustainable risk management in agriculture" (2022-2025), led by Professor Simone Severini at the University of Tuscia with research units at Universities of Padova, Trento, Foggia, and Università Cattolica del Sacro Cuore.*
