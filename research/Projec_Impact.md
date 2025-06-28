@@ -232,7 +232,7 @@ The project's evidence-based recommendations continue to influence:
 
 This comprehensive agricultural research project has achieved substantial impact across scientific, stakeholder engagement, capacity building, and policy influence dimensions. The successful engagement of over 300 farmers in behavioral research, completion of 20+ major deliverables, publication of peer-reviewed research, and contribution to CAP policy discussions represent significant achievements in evidence-based agricultural policy research.
 
-### Key Success Factors
+### Factors of Success
 
 The project's success can be attributed to:
 - **Methodological innovation** combining behavioral economics with participatory stakeholder engagement
