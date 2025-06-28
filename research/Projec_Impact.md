@@ -17,7 +17,7 @@ This agricultural research project has demonstrated significant impact across mu
 ### Peer-Reviewed Publications and Scientific Impact
 
 As of June 2025, the project has:
-- Produced **2 published peer-reviewed articles** with additional papers under review
+- Produced **7 published peer-reviewed articles** with additional papers under review
 - Generated comprehensive **scientific evidence** contributing to agricultural policy research literature
 - Established **methodological frameworks** for behavioral economic analysis in farming contexts
 - Created **reproducible research protocols** for stakeholder engagement in agricultural policy development
