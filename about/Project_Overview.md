@@ -54,6 +54,7 @@ The research is organized into seven integrated work packages (WPs) with specifi
 - **Lead Institution:** Università Cattolica del Sacro Cuore
 - **Key Tasks:**
   - Analyzing effects of risk management tools on chemical use in agriculture
+  - Analyzing the correlation between insurance adoption and the use of chemicals.
   - Studying contract farming adoption and behavioral drivers
   - Simulating policy impacts using Positive Mathematical Programming
 
