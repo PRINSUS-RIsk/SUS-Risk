@@ -34,7 +34,8 @@
     - Biagini L. ,  “The unintended consequences of Farm Insurances: a Causal Investigation on Income, Productivity and Input Dynamics” -99th Annual Conference Agricultural Economics Society – Bordeaux Invited Speaker for the Prize Essay 2025 -
     
 
-- **2024** : Biagini L., Severini S., "The Determining Factors of Farmers’ Participation in Insurance Schemes: a Comparative Analysis of Machine Learning Tools " XVII EAAE Congress - Rennes – France -  
+- **2024** :
+    - Biagini L., Severini S., "The Determining Factors of Farmers’ Participation in Insurance Schemes: a Comparative Analysis of Machine Learning Tools " XVII EAAE Congress - Rennes – France -  
 
 - **2023**:
     - Arata, L., Casati, M., Sckokai, P. “Agricultural policies, input use and risk level: evidence from Italian arable crop farms” 12th AIEAA Conference, 22-23 June 2023, Milan, Italy
