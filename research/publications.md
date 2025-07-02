@@ -23,19 +23,21 @@
 ## Conference Presentations
 
 ### International Conferences
-- **EAAE 2025 Congress** (Bonn, Germany):
-    -    Dang, T. T. T., Casati, M., Arata, L., & Sckokai, P. "Crop insurance and pesticide use: evidence from the Italian apple sector."
-- **AIEAA 2025 Conference**:
-    -  Lamonaca, E., Santeramo, F. G., Stiletto, A., Giampietri, E., Cerroni, S., Trestini, S., Casati, M., Muzzillo, M., Skockai, P., Raffaelli, R., Dang, T. T. T., Arata, L., Biagini L., "Organized Session: Towards a holistic approach to sustainable risk management in agriculture. Results from the SUS-RISK National Research Project (PRIN)"
-    - Dang, T. T. T., Casati, M., Arata, L., & Sckokai, P. "Crop insurance and pesticide use: evidence from the Italian apple sector." Submitted to AIEAA Conference and EAAE Congress 2025.
-- **AIEAA 2024 Conference**: "Behavioral Factors in Agricultural Insurance Adoption"
-- **AIEAA 2023**: "Climate Change Impacts on Italian Farm Risk Profiles"
-  
+** 2025 **:
+    - Casati M, L., Muzzillo, M., Arata,L., Raffaelli R., Rippo R., Cerroni S., Sckokai P., “Experimental Evidence on Behavioral Factors and Heuristics Influencing Farmers' Willingness to Pay for Drought Index-based Insurance” Selected Paper prepared for the Organised Session “Climatic Crisis And Risk Management In Agriculture: Behavioural Perspective” at the XVIII EAAE Congress, August 26th- 29th 2025, Bonn Germany.
+    - Casati M, L., Muzzillo, M., Arata,L., Raffaelli R., Rippo R., Cerroni S., Sckokai P., “Experimental Evidence on Behavioral Factors and Heuristics Influencing Farmers' Willingness to Pay for Drought Index-based Insurance” Selected Paper prepared for presentation at the 14th AIEAA Conference 18-20 June 2025.
+    - Dang, T. T. T., Casati, M., Arata, L., & Sckokai, P. "Crop insurance and pesticide use: evidence from the Italian apple sector." EAAE 2025 Congress (Bonn, Germany)
+    - Lamonaca, E., Santeramo, F. G., Stiletto, A., Giampietri, E., Cerroni, S., Trestini, S., Casati, M., Muzzillo, M., Skockai, P., Raffaelli, R., Dang, T. T. T., Arata, L., Biagini L.,
+    - Organized Session: "Towards a holistic approach to sustainable risk management in agriculture. Results from the SUS-RISK National Research Project (PRIN)" AIEAA 2025 Conference
+    - Dang, T. T. T., Casati, M., Arata, L., & Sckokai, P. "Crop insurance and pesticide use: evidence from the Italian apple sector." AIEAA Conference.
+    - Casati M, L., Muzzillo, M., Arata,L., Raffaelli R., Rippo R., Cerroni S., Sckokai P., “Experimental Evidence on Behavioral Factors and Heuristics Influencing Farmers' Willingness to Pay for Drought Index-based Insurance” Selected Paper prepared for presentation at the 7th Annual Meeting of the Research Network on Economic Experiments for the Common Agricultural Policy (REECAP), Leipzig, Germany, 2-5 June 2025.
+    
 
+- **2024**:
 
+- **2023**:
+    - Arata, L., Casati, M., Sckokai, P. “Agricultural policies, input use and risk level: evidence from Italian arable crop farms” 12th AIEAA Conference, 22-23 June 2023, Milan, Italy
 
-### Conference Papers Submitted
-- Dang, T. T. T., Casati, M., Arata, L., & Sckokai, P. "Crop insurance and pesticide use: evidence from the Italian apple sector." Submitted to AIEAA Conference and EAAE Congress 2025.
 
 
 ## Educational Outputs
