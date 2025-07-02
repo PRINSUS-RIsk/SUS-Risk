@@ -23,7 +23,7 @@
 ## Conference Presentations
 
 ### International Conferences
-** 2025 **:
+- **2025** :
     - Casati M, L., Muzzillo, M., Arata,L., Raffaelli R., Rippo R., Cerroni S., Sckokai P., “Experimental Evidence on Behavioral Factors and Heuristics Influencing Farmers' Willingness to Pay for Drought Index-based Insurance” Selected Paper prepared for the Organised Session “Climatic Crisis And Risk Management In Agriculture: Behavioural Perspective” at the XVIII EAAE Congress, August 26th- 29th 2025, Bonn Germany.
     - Casati M, L., Muzzillo, M., Arata,L., Raffaelli R., Rippo R., Cerroni S., Sckokai P., “Experimental Evidence on Behavioral Factors and Heuristics Influencing Farmers' Willingness to Pay for Drought Index-based Insurance” Selected Paper prepared for presentation at the 14th AIEAA Conference 18-20 June 2025.
     - Dang, T. T. T., Casati, M., Arata, L., & Sckokai, P. "Crop insurance and pesticide use: evidence from the Italian apple sector." EAAE 2025 Congress (Bonn, Germany)
@@ -31,13 +31,16 @@
     - Organized Session: "Towards a holistic approach to sustainable risk management in agriculture. Results from the SUS-RISK National Research Project (PRIN)" AIEAA 2025 Conference
     - Dang, T. T. T., Casati, M., Arata, L., & Sckokai, P. "Crop insurance and pesticide use: evidence from the Italian apple sector." AIEAA Conference.
     - Casati M, L., Muzzillo, M., Arata,L., Raffaelli R., Rippo R., Cerroni S., Sckokai P., “Experimental Evidence on Behavioral Factors and Heuristics Influencing Farmers' Willingness to Pay for Drought Index-based Insurance” Selected Paper prepared for presentation at the 7th Annual Meeting of the Research Network on Economic Experiments for the Common Agricultural Policy (REECAP), Leipzig, Germany, 2-5 June 2025.
+    - Biagini L. ,  “The unintended consequences of Farm Insurances: a Causal Investigation on Income, Productivity and Input Dynamics” -99th Annual Conference Agricultural Economics Society – Bordeaux Invited Speaker for the Prize Essay 2025 -
     
 
-- **2024**:
+- **2024** : Biagini L., Severini S., "The Determining Factors of Farmers’ Participation in Insurance Schemes: a Comparative Analysis of Machine Learning Tools " XVII EAAE Congress - Rennes – France -  
 
 - **2023**:
     - Arata, L., Casati, M., Sckokai, P. “Agricultural policies, input use and risk level: evidence from Italian arable crop farms” 12th AIEAA Conference, 22-23 June 2023, Milan, Italy
-
+    - Biagini, L., Severini S. "Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis" 12th AIEAA Conference, 22-23 June 2023, Milan, Italy
+- **2022**:
+    -  Biagini, L., Severini S., "Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis" AgEconMeeting: 185th EAAE seminar on Early Career Development of Agricultural Economists in Europe - Göttingen, Germany
 
 
 ## Educational Outputs
