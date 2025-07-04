@@ -79,7 +79,7 @@ This work package investigates the interaction between risk management tools and
 | D5.2 | Report on the potential impact of the introduction of innovative RM tools at farm level | UNITUS |  [Report D5.2](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.5/D5.2/Report_D5.2.pdf)    |
 | D5.3 | Paper on the investigation of farmers' preferences for contract farming | UNIPD |  [Paper D5.2](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.5/D5.3/Paper_D5.3.pdf)      |
 | D5.4 | Conference paper on the effect of the adoption of risk management tools on chemical use | UNICATT | The paper has been submitted and will be available after the revision process. The paper is available only to the reviewers |
-| D5.5 | Policy brief on the relationship between environmental and risk stabilisation targets | UNICATT |  [Policy Bried D5.5](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.5/D5.5/PB_D5.5.pdf)  |
+| D5.5 | Policy brief on the relationship between environmental and risk stabilisation targets | UNICATT |  [Policy Brief D5.5](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.5/D5.5/PB_D5.5.pdf)  |
 | D5.6 | Paper on analysis of potential impact of innovative RM tools at farm level by PMP models | UNITUS | The paper has been submitted and will be available after the revision process. The paper is available only to the reviewers |
 
 
