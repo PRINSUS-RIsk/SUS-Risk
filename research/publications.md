@@ -18,7 +18,7 @@
 - Biagini, L., & Severini, S. (2022). "How Does the Farmer Strike a Balance between Income and Risk across Inputs? An Application in Italian Field Crop Farms." *Sustainability*, 14, 16098. [https://doi.org/10.3390/su142316098] [Download the Paper](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.1/D1.3/sustainability-14-16098.pdf)
 - Trestini S., Morari F., Pirotti F., Epstein D. A. and Severini S., "How can data monitoring and crop modelling support agricultural risk management solutions in climate change scenarios?," 2022 IEEE Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2022, pp. 298-302, doi: [https://doi.org/10.1109/MetroAgriFor55389.2022.9964867] .
 [Download the paper](https://ieeexplore.ieee.org/document/9964867)
-
+- Santeramo, F. G., Russo, I., & Lamonaca, E. (2022). Italian subsidised crop insurance: what the role of policy changes. Q Open, qoac031. DOI: [https://10.1093/qopen/qoac031] [Download the paper](https://academic.oup.com/qopen/article-pdf/3/3/qoac031/51662449/qoac031.pdf).
 
 ## Conference Presentations
 
@@ -42,6 +42,8 @@
     - Biagini, L., Severini S. "Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis" 12th AIEAA Conference, 22-23 June 2023, Milan, Italy
 - **2022**:
     -  Biagini, L., Severini S., "Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis" AgEconMeeting: 185th EAAE seminar on Early Career Development of Agricultural Economists in Europe - Göttingen, Germany
+    -  Tappi, M., Carucci, F., Gagliardi, A., Gatta, G., Giuliani, M.M., Lamonaca, E., Santeramo, F.G. (2022). Temporal and design approaches to catch further yield-weather relationships: evidence on durum wheat in Italy. In 11th AIEAA Conference - CAP, Farm to Fork and Green Deal: policy coherence, governance, and future challenges, 16-17 June 2022, Viterbo (Italy).
+    -  Tappi, M., & Santeramo, F. G. (2022, November). (Extreme) Weather index-based insurances: data, models, and other aspects we need to think about. In 2022 IEEE Workshop on Metrology for Agriculture and Forestry, 3-5 November 2022, Perugia (Italy).
 
 
 ## Educational Outputs
