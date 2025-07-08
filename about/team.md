@@ -15,7 +15,7 @@ University of Tuscia
 
 *Expertise:* Agricultural policy evaluation, risk management, mathematical programming
 
-*** Other Unitus Members: *** 
+####  Other Unitus Members: ####  
 - Luigi Biagini
 - Chiara Perelli
 - Tanisha Waring
