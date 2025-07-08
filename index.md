@@ -39,7 +39,7 @@ title: Home
 ### Research Units and MUR Contributions
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/211a1015-57d3-44ee-9dea-e834b165cd21" alt="Universita"/>
+  <img src="https://github.com/user-attachments/assets/b8b0bf98-1f3a-45ab-86c5-d16a5ede7d37" alt="Universita"/>
 </p>
 
 
