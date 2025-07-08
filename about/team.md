@@ -54,6 +54,7 @@ University of Tuscia (Viterbo) - UNITUS
 
 ####  Other UNITN Members: ####  
 - Simone Cerroni
+- Ruggiero Rippo
 
 ### University of Foggia - UNIFG
 **Prof. Fabio Gaetano Santeramo** 
