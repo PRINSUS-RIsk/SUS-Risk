@@ -17,8 +17,10 @@ University of Tuscia (Viterbo) - UNITUS
 
 ####  Other UNITUS Members: ####  
 - Saverio Senni
+- Raffaele Cortignani
 - Luigi Biagini
 - Chiara Perelli
+- Rebecca Buttinelli
 - Tanisha Waring
 - Serena Scarinci
 - Silici Laura
@@ -41,7 +43,7 @@ University of Tuscia (Viterbo) - UNITUS
 - Elisa Giampietri
 - Alice Stiletto
 
-### University of Trento
+### University of Trento - UNITN
 **Prof. Roberta Raffaelli** 
 
 <img src="https://github.com/user-attachments/assets/305e6f10-4199-45c0-93d2-65d47331603b" alt="Raffaelli" width="300" height="300">   
@@ -50,7 +52,10 @@ University of Tuscia (Viterbo) - UNITUS
   
 *Expertise:* Discrete choice experiments, consumer preferences, experimental economics
 
-### University of Foggia
+####  Other UNITN Members: ####  
+- Simone Cerroni
+
+### University of Foggia - UNIFG
 **Prof. Fabio Gaetano Santeramo** 
 
 <img src="https://github.com/user-attachments/assets/3659fdad-15cc-4d27-adf9-bd4846e24189" alt="FGS" width="300" height="300">   
@@ -58,15 +63,22 @@ University of Tuscia (Viterbo) - UNITUS
 [Department of Agriculture, Food, Natural Resources and Engineering (DAFNE)](https://www.agraria.unifg.it/en)  
 *Expertise:* Agricultural economics and policy, economics of risk, climate change
 
-### Università Cattolica del Sacro Cuore
+####  Other UNIFG Members: ####  
+- Emilia Lamonaca
+- Irene Maccarone
+
+### Università Cattolica del Sacro Cuore - UNICATT
 **Dr. Linda Arata**  
+
 
  <img src="https://github.com/user-attachments/assets/0ccc828c-a1ce-45b1-bffa-df93474a614e" alt="Arata" width="300" height="300">  
 
 
 [Department of Economics and Finance](https://dipartimenti.unicatt.it/defin?rdeLocaleAttr=en)  
 *Expertise:* Farm-level mathematical programming models, agricultural production risk analysis
-
+####  Other UNICATT Members: ####  
+- Paolo Sckokai
+- Mirta Casati
 
 
 
