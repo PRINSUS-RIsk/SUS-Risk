@@ -17,7 +17,9 @@ University of Tuscia
 
 ### University of Padova
 **Prof. Samuele Trestini**  
-<img src="https://github.com/user-attachments/assets/c5e310dd-068c-454e-ac60-61bafd0e6d51" alt="Trestini" width="300" height="300">    
+
+
+<img src="https://github.com/user-attachments/assets/03f1ea22-d58e-4d34-bed4-e8a9856bd992" alt="Trestini" width="300" height="300">    
 
 [Department of Land, Environment, Agriculture and Forestry (TESAF)](https://alpinenetwork.org/en/dipartimento-territorio-e-sistemi-agroforestali-tesaf-universita-di-padova/#:~:text=The%20Department%20TESAF%20is%20a%20multidisciplinary%20structure%20acting,resources%2C%20mechanization%20in%20agriculture%20and%20forestry%20and%20phytopathology)  
 
