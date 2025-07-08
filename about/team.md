@@ -15,6 +15,15 @@ University of Tuscia
 
 *Expertise:* Agricultural policy evaluation, risk management, mathematical programming
 
+*** Other Unitus Members: *** 
+- Luigi Biagini
+- Chiara Perelli
+- Tanisha Waring
+- Serena Scarinci
+- Silici Laura
+- Cinzia Zinnanti
+
+
 ## Research Unit Coordinators
 
 ### University of Padova
@@ -54,10 +63,6 @@ University of Tuscia
 *Expertise:* Farm-level mathematical programming models, agricultural production risk analysis
 
 
-*Prof. Simone Cerroni**    
-<img src="https://github.com/user-attachments/assets/5ec19f3f-2204-4b91-be6a-64c552e83df2" alt="Cerroni" width="300" height="300">   
-**Prof. Paolo Sckokai**  
-<img src="https://github.com/user-attachments/assets/134068ef-6207-41ed-b76a-8f6b92e46648" alt="Sckokai" width="300" height="300">    
 
 
 
