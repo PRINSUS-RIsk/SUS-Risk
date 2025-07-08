@@ -29,19 +29,23 @@ University of Tuscia
 **Prof. Roberta Raffaelli** 
 
 <img src="https://github.com/user-attachments/assets/305e6f10-4199-45c0-93d2-65d47331603b" alt="Raffaelli" width="300" height="300">   
+
 [Department of Economics and Management](https://www.economia.unitn.it/en)  
   
 *Expertise:* Discrete choice experiments, consumer preferences, experimental economics
 
 ### University of Foggia
-**Prof. Fabio Gaetano Santeramo**  
-<img src="https://github.com/user-attachments/assets/c345a1fc-884a-4d8f-bf23-2497a88c5ef5" alt="FGS" width="300" height="300">    
+**Prof. Fabio Gaetano Santeramo** 
+
+<img src="https://github.com/user-attachments/assets/3659fdad-15cc-4d27-adf9-bd4846e24189" alt="FGS" width="300" height="300">   
+
 [Department of Agriculture, Food, Natural Resources and Engineering (DAFNE)](https://www.agraria.unifg.it/en)  
 *Expertise:* Agricultural economics and policy, economics of risk, climate change
 
 ### Università Cattolica del Sacro Cuore
 **Dr. Linda Arata**  
- <img src="https://github.com/user-attachments/assets/41544120-4054-42b0-b0ac-ea3ff39104dc" alt="Arata" width="300" height="300">  
+
+ <img src="https://github.com/user-attachments/assets/0ccc828c-a1ce-45b1-bffa-df93474a614e" alt="Arata" width="300" height="300">  
 
 
 [Department of Economics and Finance](https://dipartimenti.unicatt.it/defin?rdeLocaleAttr=en)  
