@@ -26,8 +26,9 @@ University of Tuscia
 *Expertise:* Agricultural policy design, farmer behavior, feasibility studies
 
 ### University of Trento
-**Prof. Roberta Raffaelli**  
-<img src="https://github.com/user-attachments/assets/fcb36d64-bd32-4458-aa11-618145778be5" alt="Raffaelli" width="300" height="300">   
+**Prof. Roberta Raffaelli** 
+
+<img src="https://github.com/user-attachments/assets/305e6f10-4199-45c0-93d2-65d47331603b" alt="Raffaelli" width="300" height="300">   
 [Department of Economics and Management](https://www.economia.unitn.it/en)  
   
 *Expertise:* Discrete choice experiments, consumer preferences, experimental economics
