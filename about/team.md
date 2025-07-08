@@ -62,4 +62,4 @@ The project benefits from guidance by international experts from:
 
 - **CREA-PB** (Council for Agricultural Research and Economics - Policy and Bioeconomy)
 - **ISMEA** (Institute of Services for the Agricultural Food Market)
-- **ASNACODI** (National Association of Consortiums for Irrigation and Drainage)
+- **ASNACODI** (National Association of Defense Consortia)
