@@ -5,7 +5,7 @@ title: Research Team
 
 # Research Team
 
-## Principal Investigator
+## Principal Investigator and Research Unit Coordinators
 
 **Prof. Simone Severini**    
 [Department of Agriculture and Forest Sciences (DAFNE)](https://www.unitus.it/en/departments/dafne/)    
