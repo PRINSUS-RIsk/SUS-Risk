@@ -9,13 +9,14 @@ title: Research Team
 
 **Prof. Simone Severini**    
 [Department of Agriculture and Forest Sciences (DAFNE)](https://www.unitus.it/en/departments/dafne/)    
-University of Tuscia 
+University of Tuscia (Viterbo) - UNITUS
 
 <img src="https://github.com/user-attachments/assets/ac4981de-9316-4e29-bab1-0ac52c95dadd" alt="Severini" width="300" height="300">      
 
 *Expertise:* Agricultural policy evaluation, risk management, mathematical programming
 
-####  Other Unitus Members: ####  
+####  Other UNITUS Members: ####  
+- Saverio Senni
 - Luigi Biagini
 - Chiara Perelli
 - Tanisha Waring
@@ -26,7 +27,7 @@ University of Tuscia
 
 ## Research Unit Coordinators
 
-### University of Padova
+### University of Padova - UNIPD
 **Prof. Samuele Trestini**  
 
 
@@ -35,6 +36,10 @@ University of Tuscia
 [Department of Land, Environment, Agriculture and Forestry (TESAF)](https://alpinenetwork.org/en/dipartimento-territorio-e-sistemi-agroforestali-tesaf-universita-di-padova/#:~:text=The%20Department%20TESAF%20is%20a%20multidisciplinary%20structure%20acting,resources%2C%20mechanization%20in%20agriculture%20and%20forestry%20and%20phytopathology)  
 
 *Expertise:* Agricultural policy design, farmer behavior, feasibility studies
+
+####  Other UNIPD Members: ####  
+- Elisa Giampietri
+- Alice Stiletto
 
 ### University of Trento
 **Prof. Roberta Raffaelli** 
