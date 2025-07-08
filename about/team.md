@@ -9,8 +9,9 @@ title: Research Team
 
 **Prof. Simone Severini**    
 [Department of Agriculture and Forest Sciences (DAFNE)](https://www.unitus.it/en/departments/dafne/)    
-University of Tuscia    
-<img src="https://github.com/user-attachments/assets/0f42dc0a-fbd0-44a8-a9eb-eb4efa8ca560" alt="Severini" width="300" height="300">      
+University of Tuscia 
+
+<img src="https://github.com/user-attachments/assets/ac4981de-9316-4e29-bab1-0ac52c95dadd" alt="Severini" width="300" height="300">      
 *Expertise:* Agricultural policy evaluation, risk management, mathematical programming
 
 ## Research Unit Coordinators
