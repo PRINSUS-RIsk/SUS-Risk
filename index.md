@@ -36,16 +36,14 @@ title: Home
 
 ## PRIN 2020 Project Funding Distribution
 
-### Research Units and MUR Contributions
+### Research Unit
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b8b0bf98-1f3a-45ab-86c5-d16a5ede7d37" alt="Universita"/>
+  <img src="https://github.com/PRINSUS-RIsk/SUS-Risk/blob/main/Images/Universita.png" alt="Universita"/>
 </p>
 
 
-**Total Cofinancing:** € 119,102.00  
-**Total MUR Contribution:** € 606,961.00  
-**Total Amount of the Project:** € 726,063.00
+*Total Amount of the Project:* € 726,063.00
 
 This research project aims to enhance knowledge in agricultural risk management through a holistic approach investigating all relevant aspects affecting risk management choices using cutting-edge methodologies.
 
