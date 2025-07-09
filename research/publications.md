@@ -45,7 +45,8 @@
     - Biagini, L., Severini S. "Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis" 12th AIEAA Conference, 22-23 June 2023, Milan, Italy
     - Biagini, L., Severini S. "The Determining Factors of Farmers’ Participation in Insurance Schemes: a Comparative Analysis of Machine Learning Tools" Poster prepared for presentation at the XVII EAAE Conference, Rennes, September 2023
     - Giampietri, E., Trestini, S., Cerroni, S., Rippo, R., Penone, C.,  Contract farming choices among farmers: the impact of subjective probabilities and experts’ opinions on price expectations, Selected Paper prepared for presentation at the XVII EAAE Conference, Rennes, September 2023
-- **2022**:
+
+- **2023**:
     -  Biagini, L., Severini S., "Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis" AgEconMeeting: 185th EAAE seminar on Early Career Development of Agricultural Economists in Europe - Göttingen, Germany
     -  Biagini, L., Severini S., "Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis" Selected Paper prepared for presentation at the 12th AIEAA Conference 22-23 June 2023.
     -  Giampietri, E., Trestini, S., Cerroni, S., Rippo, R., Penone, C.,  Farmers’ participation in contract farming: the role of subjective probabilities and experts’ opinions on price expectations, Selected Paper prepared for presentation at the 12th AIEAA Conference 22-23 June 2023.
