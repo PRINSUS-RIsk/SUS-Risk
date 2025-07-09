@@ -40,8 +40,11 @@ title: Home
   <img src="https://github.com/user-attachments/assets/80a2d42a-c67a-42c3-87c6-e8aa561bb689" alt="Universita"/>
 </p>
 
+<div align="center">
 
-##Total Amount of the Project:* € 726,063.00##
+## **Total Amount of the Project: € 726,063.00**
+
+</div>
 
 This research project aims to enhance knowledge in agricultural risk management through a holistic approach investigating all relevant aspects affecting risk management choices using cutting-edge methodologies.
 
