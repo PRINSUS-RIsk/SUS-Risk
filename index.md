@@ -39,7 +39,7 @@ title: Home
 ### Research Unit
 
 <p align="center">
-  <img src="https://github.com/PRINSUS-RIsk/SUS-Risk/blob/main/Images/Universita.png" alt="Universita"/>
+  <img src="https://github.com/user-attachments/assets/80a2d42a-c67a-42c3-87c6-e8aa561bb689" alt="Universita"/>
 </p>
 
 
