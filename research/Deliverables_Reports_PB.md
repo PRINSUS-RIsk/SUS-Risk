@@ -26,7 +26,9 @@ This work package conducts systematic review of international literature investi
 | Deliverable | Description | Leading RU | Document |
 | :-- | :-- | :-- | :-- |
 | D2.1 | Report on the conducted systematic literature review | UNITN | [Report D2.1](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.2/D2.1/Report_D2.1.pdf)|
-| D2.2 | Report on the two economic experiments | UNITN | [Report D2.2](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.2/D2.2/Report_D2.2.pdf)|
+| D2.2 | Report on the two economic experiments | UNITN | [Report D2.2]
+<!-- https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.2/D2.2/Report_D2.2.pdf -->  
+ The report refers to paper under review and is available only to the reviewer|
 | D2.3 | Policy brief on behavioural factors influencing farmers' adoption of risk management strategies | UNITN | [Policy Brief D2.3](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.2/D2.3/PB_D2.3.pdf)|
 | D2.4 | Paper submitted to a scientific journal on behavioural factors influencing farmers' adoption | UNITN | The paper has been submitted and will be available after the revision process. The paper is available only to the reviewers|
 
@@ -43,9 +45,11 @@ This work package employs Machine Learning approaches (Shrinkage and Boosting) t
 | D3.1 | Report assessing the performances of machine learning vs traditional econometric analyses | UNITUS |   [Report D3.1](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.1/Report3.1.pdf) |
 | D3.2 | Report on identification of factors affecting farmers' participation to insurance schemes | UNITUS |  [Report D3.2](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.2/ReportD3.2.pdf) |
 | D3.3 | Paper on factors affecting farmers' participation to insurance schemes using Machine Learning | UNITUS |  [Paper D3.3](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.3/PaperD3.3.pdf)  |
-| D3.4 | Report on identification of farmers' preferences for characteristics of innovative RM tools | UNITN |   [Report D3.4](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.4/ReportD3.4.pdf)|
+| D3.4 | Report on identification of farmers' preferences for characteristics of innovative RM tools | UNITN | <!-- (https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.4/ReportD3.4.pdf) -->  [Report D3.4] The report refers to paper under review and is available only to the reviewers|
 | D3.5 | Policy brief on factors affecting risk management choices | UNIPD |  [Policy Brief D3.5](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.5/PolicyBriefD3.5.pdf) |
-| D3.6 | Report on identification of determinants of farmers' adoption of innovative RM tools | UNIPD |  [Report D3.6](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.6/Report_D3.6.pdf) |
+| D3.6 | Report on identification of determinants of farmers' adoption of innovative RM tools | UNIPD |  [Report D3.6]
+<!-- (https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.3/D3.6/Report_D3.6.pdf)) -->  
+ The report refers to paper under review and is available only to the reviewers |
 | D3.7 | Paper on investigation of farmers' preferences for characteristics of innovative RM tools | UNITN | The paper has been submitted and will be available after the revision process. The paper is available only to the reviewers  |
 | D3.8 | Paper on investigation of determinants of farmers' adoption of innovative RM tools | UNIPD | The paper has been submitted and will be available after the revision process. The paper is available only to the reviewers   |
 
