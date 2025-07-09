@@ -24,26 +24,34 @@
 
 ### International Conferences
 - **2025** :
+    - Biagini L. ,  “The unintended consequences of Farm Insurances: a Causal Investigation on Income, Productivity and Input Dynamics” -99th Annual Conference Agricultural Economics Society – Bordeaux Invited Speaker for the Prize Essay 2025 -   
     - Casati M, L., Muzzillo, M., Arata,L., Raffaelli R., Rippo R., Cerroni S., Sckokai P., “Experimental Evidence on Behavioral Factors and Heuristics Influencing Farmers' Willingness to Pay for Drought Index-based Insurance” Selected Paper prepared for the Organised Session “Climatic Crisis And Risk Management In Agriculture: Behavioural Perspective” at the XVIII EAAE Congress, August 26th- 29th 2025, Bonn Germany.
     - Casati M, L., Muzzillo, M., Arata,L., Raffaelli R., Rippo R., Cerroni S., Sckokai P., “Experimental Evidence on Behavioral Factors and Heuristics Influencing Farmers' Willingness to Pay for Drought Index-based Insurance” Selected Paper prepared for presentation at the 14th AIEAA Conference 18-20 June 2025.
+    - Casati M, L., Muzzillo, M., Arata,L., Raffaelli R., Rippo R., Cerroni S., Sckokai P., “Experimental Evidence on Behavioral Factors and Heuristics Influencing Farmers' Willingness to Pay for Drought Index-based Insurance” Selected Paper prepared for presentation at the 7th Annual Meeting of the Research Network on Economic Experiments for the Common Agricultural Policy (REECAP), Leipzig, Germany, 2-5 June 2025.
     - Dang, T. T. T., Casati, M., Arata, L., & Sckokai, P. "Crop insurance and pesticide use: evidence from the Italian apple sector." EAAE 2025 Congress (Bonn, Germany)
+    - Dang, T. T. T., Casati, M., Arata, L., & Sckokai, P. "Crop insurance and pesticide use: evidence from the Italian apple sector." AIEAA Conference.
     - Lamonaca, E., Santeramo, F. G., Stiletto, A., Giampietri, E., Cerroni, S., Trestini, S., Casati, M., Muzzillo, M., Skockai, P., Raffaelli, R., Dang, T. T. T., Arata, L., Biagini L.,
     - Organized Session: "Towards a holistic approach to sustainable risk management in agriculture. Results from the SUS-RISK National Research Project (PRIN)" AIEAA 2025 Conference
-    - Dang, T. T. T., Casati, M., Arata, L., & Sckokai, P. "Crop insurance and pesticide use: evidence from the Italian apple sector." AIEAA Conference.
-    - Casati M, L., Muzzillo, M., Arata,L., Raffaelli R., Rippo R., Cerroni S., Sckokai P., “Experimental Evidence on Behavioral Factors and Heuristics Influencing Farmers' Willingness to Pay for Drought Index-based Insurance” Selected Paper prepared for presentation at the 7th Annual Meeting of the Research Network on Economic Experiments for the Common Agricultural Policy (REECAP), Leipzig, Germany, 2-5 June 2025.
-    - Biagini L. ,  “The unintended consequences of Farm Insurances: a Causal Investigation on Income, Productivity and Input Dynamics” -99th Annual Conference Agricultural Economics Society – Bordeaux Invited Speaker for the Prize Essay 2025 -
-    
+        -    Stiletto, A., Giampietri, E., Raffaelli, R., Cerroni, S., Trestini, S., “Shaping The Future Of Catastrophic Risk Management In Italian Agriculture: A Discrete Choice Experiment On The Interplay Between Agricat National Fund And Traditional Insurance Schemes”
+    - Stiletto, A., Rippo, R., Raffaelli, R., Trestini, S., Giampietri, E., Cerroni, S., The Role of Heuristics in Agricultural Risk Management: Insights from an Experimental Study on Apple Producers, Selected Paper prepared for presentation at the V Conference AISSA #under40, Naples, 4-6 June 2025.
 
 - **2024** :
-    - Biagini L., Severini S., "The Determining Factors of Farmers’ Participation in Insurance Schemes: a Comparative Analysis of Machine Learning Tools " XVII EAAE Congress - Rennes – France -  
+    - Biagini L., Severini S., "The Determining Factors of Farmers’ Participation in Insurance Schemes: a Comparative Analysis of Machine Learning Tools " XVII EAAE Congress - Rennes – France -
+    - Rippo, R., Raffaelli, R., Trestini, S. Giampietri, E., Stiletto, A., Cerroni, S.,  Beyond Intuition: Experimental Analysis of Heuristic Influence on Apple Producers Risk Management, Selected Paper prepared for presentation at the 13th AIEAA Conference 20-22 June 2024. 
 
 - **2023**:
     - Arata, L., Casati, M., Sckokai, P. “Agricultural policies, input use and risk level: evidence from Italian arable crop farms” 12th AIEAA Conference, 22-23 June 2023, Milan, Italy
     - Biagini, L., Severini S. "Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis" 12th AIEAA Conference, 22-23 June 2023, Milan, Italy
 - **2022**:
     -  Biagini, L., Severini S., "Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis" AgEconMeeting: 185th EAAE seminar on Early Career Development of Agricultural Economists in Europe - Göttingen, Germany
+    -  Giampietri, E., Trestini, S., Cerroni, S., Rippo, R., Penone, C.,  Contract farming choices among farmers: the impact of subjective probabilities and experts’ opinions on price expectations, Selected Paper prepared for presentation at the XVII EAAE Conference, Rennes, September 2023
+    -  Giampietri, E., Trestini, S., Cerroni, S., Rippo, R., Penone, C.,  Farmers’ participation in contract farming: the role of subjective probabilities and experts’ opinions on price expectations, Selected Paper prepared for presentation at the 12th AIEAA Conference 22-23 June 2023.
     -  Tappi, M., Carucci, F., Gagliardi, A., Gatta, G., Giuliani, M.M., Lamonaca, E., Santeramo, F.G. (2022). Temporal and design approaches to catch further yield-weather relationships: evidence on durum wheat in Italy. In 11th AIEAA Conference - CAP, Farm to Fork and Green Deal: policy coherence, governance, and future challenges, 16-17 June 2022, Viterbo (Italy).
-    -  Tappi, M., & Santeramo, F. G. (2022, November). (Extreme) Weather index-based insurances: data, models, and other aspects we need to think about. In 2022 IEEE Workshop on Metrology for Agriculture and Forestry, 3-5 November 2022, Perugia (Italy).
+   
+-  **2022**
+    -  Giampietri, E., Höschle, L., Trestini, S., Machine Learning as a new frontier in the research on Risk Management in agriculture, Selected Paper prepared for presentation at the 185° EAAE Seminar, Göttingen, 5-7 October 2022
+    - Giampietri, E., Trestini, S. The impact of Halyomorpha halys on fruit production: an unconditional quantile approach to capture the heterogeneous nature of the relationship between losses and farm characteristics, Selected Paper prepared for presentation at the 11° AIEAA Conference, Viterbo, 16-17 June 2022
+    - Tappi, M., & Santeramo, F. G. (2022, November). (Extreme) Weather index-based insurances: data, models, and other aspects we need to think about. In 2022 IEEE Workshop on Metrology for Agriculture and Forestry, 3-5 November 2022, Perugia (Italy).
 
 
 ## Educational Outputs
