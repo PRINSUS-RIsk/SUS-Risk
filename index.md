@@ -34,8 +34,6 @@ title: Home
 
 
 
-## PRIN 2020 Project Funding Distribution
-
 ### Research Unit
 
 <p align="center">
@@ -43,7 +41,7 @@ title: Home
 </p>
 
 
-*Total Amount of the Project:* € 726,063.00
+##Total Amount of the Project:* € 726,063.00##
 
 This research project aims to enhance knowledge in agricultural risk management through a holistic approach investigating all relevant aspects affecting risk management choices using cutting-edge methodologies.
 
