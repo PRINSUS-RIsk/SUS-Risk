@@ -41,7 +41,7 @@ title: Home
 </p>
 
 <div align="center">
-## **Total Amount of the Project: € 726,063.00**
+<h2> Total Amount of the Project: € 726,063.00 </h2>
 </div>
 
 This research project aims to enhance knowledge in agricultural risk management through a holistic approach investigating all relevant aspects affecting risk management choices using cutting-edge methodologies.
