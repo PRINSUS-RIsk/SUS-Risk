@@ -35,7 +35,6 @@
 - Stiletto, A., Rippo, R., Raffaelli, R., Trestini, S., Giampietri, E., Cerroni, S., The Role of Heuristics in Agricultural Risk Management: Insights from an Experimental Study on Apple Producers, Selected Paper prepared for presentation at the V Conference AISSA #under40, Naples, 4-6 June 2025.
 
 ### 2024 ### 
-- Biagini L., Severini S., "The Determining Factors of Farmers’ Participation in Insurance Schemes: a Comparative Analysis of Machine Learning Tools " XVII EAAE Congress - Rennes – France -
 - Biagini L., Bozzola M., Severini S.,Variable inputs use as a risk mitigation strategy. An empirical assessment on irrigated ﬁeld crop farms in Italy. Selected Paper prepared for presentation at the 13th AIEAA Conference 20-22 June 2024. . 
 - Rippo, R., Raffaelli, R., Trestini, S. Giampietri, E., Stiletto, A., Cerroni, S.,  Beyond Intuition: Experimental Analysis of Heuristic Influence on Apple Producers Risk Management, Selected Paper prepared for presentation at the 13th AIEAA Conference 20-22 June 2024. 
 
@@ -44,6 +43,7 @@
 - Biagini, L., Severini S. "Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis" 12th AIEAA Conference, 22-23 June 2023, Milan, Italy
 - Biagini, L., Severini S. "The Determining Factors of Farmers’ Participation in Insurance Schemes: a Comparative Analysis of Machine Learning Tools" Poster prepared for presentation at the XVII EAAE Conference, Rennes, September 2023
 - Biagini, L., Severini S., "Can Machine Learning discover the determining factors in participation in insurance schemes? A comparative analysis" AgEconMeeting: 185th EAAE seminar on Early Career Development of Agricultural Economists in Europe - Göttingen, Germany
+- Biagini L., Severini S., "The Determining Factors of Farmers’ Participation in Insurance Schemes: a Comparative Analysis of Machine Learning Tools " XVII EAAE Congress - Rennes – France -
 - Giampietri, E., Trestini, S., Cerroni, S., Rippo, R., Penone, C.,  Contract farming choices among farmers: the impact of subjective probabilities and experts’ opinions on price expectations, Selected Paper prepared for presentation at the XVII EAAE Conference, Rennes, September 2023
 - Giampietri, E., Trestini, S., Cerroni, S., Rippo, R., Penone, C.,  Farmers’ participation in contract farming: the role of subjective probabilities and experts’ opinions on price expectations, Selected Paper prepared for presentation at the 12th AIEAA Conference 22-23 June 2023.
 
