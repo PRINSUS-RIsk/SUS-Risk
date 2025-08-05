@@ -29,10 +29,9 @@
 - Casati M, L., Muzzillo, M., Arata,L., Raffaelli R., Rippo R., Cerroni S., Sckokai P., “Experimental Evidence on Behavioral Factors and Heuristics Influencing Farmers' Willingness to Pay for Drought Index-based Insurance” Selected Paper prepared for presentation at the 7th Annual Meeting of the Research Network on Economic Experiments for the Common Agricultural Policy (REECAP), Leipzig, Germany, 2-5 June 2025.
 - Dang, T. T. T., Casati, M., Arata, L., & Sckokai, P. "Crop insurance and pesticide use: evidence from the Italian apple sector." EAAE 2025 Congress (Bonn, Germany)
 - Dang, T. T. T., Casati, M., Arata, L., & Sckokai, P. "Crop insurance and pesticide use: evidence from the Italian apple sector." AIEAA Conference.
-- Lamonaca, E., Santeramo, F. G., Stiletto, A., Giampietri, E., Cerroni, S., Trestini, S., Casati, M., Muzzillo, M., Skockai, P., Raffaelli, R., Dang, T. T. T., Arata, L., Biagini L.,
-- Organized Session: "Towards a holistic approach to sustainable risk management in agriculture. Results from the SUS-RISK National Research Project (PRIN)" AIEAA 2025 Conference
-    -    Biagini, L. "The Unintended Consequences of Farm Insurance: A Causal Investigation on Income, Productivity and Input Dynamics" 
-    -    Stiletto, A., Giampietri, E., Raffaelli, R., Cerroni, S., Trestini, S., “Shaping The Future Of Catastrophic Risk Management In Italian Agriculture: A Discrete Choice Experiment On The Interplay Between Agricat National Fund And Traditional Insurance Schemes”
+- Lamonaca, E., Santeramo, F. G., Stiletto, A., Giampietri, E., Cerroni, S., Trestini, S., Casati, M., Muzzillo, M., Skockai, P., Raffaelli, R., Dang, T. T. T., Arata, L., Biagini L., Organized Session: "Towards a holistic approach to sustainable risk management in agriculture. Results from the SUS-RISK National Research Project (PRIN)" AIEAA 2025 Conference
+ -  Biagini, L. "The Unintended Consequences of Farm Insurance: A Causal Investigation on Income, Productivity and Input Dynamics" AIEAA 2025 Conference
+ -  Stiletto, A., Giampietri, E., Raffaelli, R., Cerroni, S., Trestini, S., “Shaping The Future Of Catastrophic Risk Management In Italian Agriculture: A Discrete Choice Experiment On The Interplay Between Agricat National Fund And Traditional Insurance Schemes”
 - Stiletto, A., Rippo, R., Raffaelli, R., Trestini, S., Giampietri, E., Cerroni, S., The Role of Heuristics in Agricultural Risk Management: Insights from an Experimental Study on Apple Producers, Selected Paper prepared for presentation at the V Conference AISSA #under40, Naples, 4-6 June 2025.
 
 ### 2024 ### 
