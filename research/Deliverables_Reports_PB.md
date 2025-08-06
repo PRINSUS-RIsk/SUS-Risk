@@ -96,7 +96,7 @@ This work package ensures continuous engagement with farmers, policymakers, insu
 | D6.1 | Report on the farm survey | UNITN | [Report D6.1](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.6/D6.1/Report_D6.1.pdf) | 
 | D6.2 | Focus group minutes (5) | UNITUS | [Focus Group Minutes D6.2](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.6/D6.2/FG_Minutes_D6.2.pdf)     |  
 | D6.3 | Course on RM organised for young researchers | UNITUS | [Course Program D6.3](https://raw.githubusercontent.com/PRINSUS-RIsk/SUS-Risk/main/Deliverables/D.6/D6.3/Course_D6.3.pdf)  | 
-| D6.5 | Publication of the project book | All |      | 
+| D6.5 | Publication of the project book | All |   [Book SUS-RISK](https://github.com/PRINSUS-RIsk/SUS-Risk/blob/main/Deliverables/D.6/SUS%20RISK%20Book.pdf)    | 
 
 
 ## WP7: Project and Data Management
@@ -116,3 +116,4 @@ This work package ensures continuous engagement with farmers, policymakers, insu
 
 
 *This document reflects the outputs of the PRIN 2020 project "Towards a holistic approach to sustainable risk management in agriculture" (2022-2025), led by Professor Simone Severini at the University of Tuscia with research units at Universities of Padova, Trento, Foggia, and Università Cattolica del Sacro Cuore.*
+
